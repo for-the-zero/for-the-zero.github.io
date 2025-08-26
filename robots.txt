@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://for-the-zero.github.io/sitemap.xml
+Sitemap: https://forthezero.dpdns.org/sitemap.xml
