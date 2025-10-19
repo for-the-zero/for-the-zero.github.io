@@ -36,6 +36,14 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog" />
   </url>
   <url>
+    <loc>https://forthezero.dpdns.org/blog/posts/isadev/</loc>
+    <lastmod>2025-10-25T00:00:00.000Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/isadev" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/isadev" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/isadev" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/isadev" />
+  </url>
+  <url>
     <loc>https://forthezero.dpdns.org/blog/posts/siteupdate/</loc>
     <lastmod>2025-09-21T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/siteupdate" />
