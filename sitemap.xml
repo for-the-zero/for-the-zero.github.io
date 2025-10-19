@@ -3,6 +3,7 @@
   <url>
     <loc>https://forthezero.dpdns.org//</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/" />
@@ -10,6 +11,7 @@
   <url>
     <loc>https://forthezero.dpdns.org/404/</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/404" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/404" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/404" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/404" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/404" />
@@ -17,6 +19,7 @@
   <url>
     <loc>https://forthezero.dpdns.org/links/</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/links" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/links" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/links" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/links" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/links" />
@@ -24,6 +27,7 @@
   <url>
     <loc>https://forthezero.dpdns.org/intro/</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/intro" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/intro" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/intro" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/intro" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/intro" />
@@ -31,6 +35,7 @@
   <url>
     <loc>https://forthezero.dpdns.org/blog/</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog" />
@@ -39,6 +44,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/isadev/</loc>
     <lastmod>2025-10-25T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/isadev" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/isadev" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/isadev" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/isadev" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/isadev" />
@@ -47,6 +53,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/siteupdate/</loc>
     <lastmod>2025-09-21T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/siteupdate" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/siteupdate" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/siteupdate" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/siteupdate" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/siteupdate" />
@@ -55,6 +62,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/newblog/</loc>
     <lastmod>2025-08-23T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/newblog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/newblog" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/newblog" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/newblog" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/newblog" />
@@ -63,6 +71,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/MapPinner/</loc>
     <lastmod>2025-07-25T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/MapPinner" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/MapPinner" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/MapPinner" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/MapPinner" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/MapPinner" />
@@ -71,6 +80,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/LMCanvas/</loc>
     <lastmod>2025-07-01T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/LMCanvas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/LMCanvas" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/LMCanvas" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/LMCanvas" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/LMCanvas" />
@@ -79,6 +89,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/asak/</loc>
     <lastmod>2025-05-31T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/asak" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/asak" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/asak" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/asak" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/asak" />
@@ -87,6 +98,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/又是英语演讲/</loc>
     <lastmod>2025-05-10T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/又是英语演讲" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/又是英语演讲" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/又是英语演讲" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/又是英语演讲" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/又是英语演讲" />
@@ -95,6 +107,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/taplesai/</loc>
     <lastmod>2025-04-05T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/taplesai" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/taplesai" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/taplesai" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/taplesai" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/taplesai" />
@@ -103,6 +116,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/FLC/</loc>
     <lastmod>2025-04-05T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/FLC" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/FLC" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/FLC" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/FLC" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/FLC" />
@@ -111,6 +125,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/set2llm/</loc>
     <lastmod>2025-02-22T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/set2llm" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/set2llm" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/set2llm" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/set2llm" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/set2llm" />
@@ -119,6 +134,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/Quicktools2-5/</loc>
     <lastmod>2025-02-22T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/Quicktools2-5" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/Quicktools2-5" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/Quicktools2-5" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/Quicktools2-5" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/Quicktools2-5" />
@@ -127,6 +143,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/Quicktools2/</loc>
     <lastmod>2025-01-24T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/Quicktools2" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/Quicktools2" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/Quicktools2" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/Quicktools2" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/Quicktools2" />
@@ -135,6 +152,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/nglishSpeechShare/</loc>
     <lastmod>2024-12-31T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/nglishSpeechShare" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/nglishSpeechShare" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/nglishSpeechShare" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/nglishSpeechShare" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/nglishSpeechShare" />
@@ -143,6 +161,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/subnet/</loc>
     <lastmod>2024-08-30T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/subnet" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/subnet" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/subnet" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/subnet" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/subnet" />
@@ -151,6 +170,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/CapsTools/</loc>
     <lastmod>2024-08-30T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/CapsTools" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/CapsTools" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/CapsTools" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/CapsTools" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/CapsTools" />
@@ -159,6 +179,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/Quicktools1/</loc>
     <lastmod>2024-05-05T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/Quicktools1" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/Quicktools1" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/Quicktools1" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/Quicktools1" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/Quicktools1" />
@@ -167,6 +188,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/LLM对比/</loc>
     <lastmod>2024-02-05T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/LLM对比" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/LLM对比" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/LLM对比" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/LLM对比" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/LLM对比" />
@@ -175,6 +197,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/相机算法对比/</loc>
     <lastmod>2024-02-05T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/相机算法对比" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/相机算法对比" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/相机算法对比" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/相机算法对比" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/相机算法对比" />
@@ -183,6 +206,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/一个提取手机apk的玩意/</loc>
     <lastmod>2024-01-24T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/一个提取手机apk的玩意" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/一个提取手机apk的玩意" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/一个提取手机apk的玩意" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/一个提取手机apk的玩意" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/一个提取手机apk的玩意" />
@@ -191,6 +215,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/一定是Imgui干的！/</loc>
     <lastmod>2024-01-23T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/一定是Imgui干的！" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/一定是Imgui干的！" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/一定是Imgui干的！" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/一定是Imgui干的！" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/一定是Imgui干的！" />
@@ -199,6 +224,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/adb-python-状态监控/</loc>
     <lastmod>2024-01-20T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/adb-python-状态监控" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/adb-python-状态监控" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/adb-python-状态监控" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/adb-python-状态监控" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/adb-python-状态监控" />
@@ -207,6 +233,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/关注AB视频更新/</loc>
     <lastmod>2024-01-20T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/关注AB视频更新" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/关注AB视频更新" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/关注AB视频更新" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/关注AB视频更新" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/关注AB视频更新" />
@@ -215,6 +242,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/一段时间前做了一个DNA打结的东西/</loc>
     <lastmod>2024-01-20T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/一段时间前做了一个DNA打结的东西" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/一段时间前做了一个DNA打结的东西" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/一段时间前做了一个DNA打结的东西" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/一段时间前做了一个DNA打结的东西" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/一段时间前做了一个DNA打结的东西" />
@@ -223,6 +251,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/做了个叫PinCopy的玩意/</loc>
     <lastmod>2024-01-20T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/做了个叫PinCopy的玩意" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/做了个叫PinCopy的玩意" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/做了个叫PinCopy的玩意" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/做了个叫PinCopy的玩意" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/做了个叫PinCopy的玩意" />
@@ -231,6 +260,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/批判/</loc>
     <lastmod>2024-01-19T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/批判" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/批判" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/批判" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/批判" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/批判" />
@@ -239,6 +269,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/胡思乱想：设定/</loc>
     <lastmod>2023-11-05T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/胡思乱想：设定" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/胡思乱想：设定" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/胡思乱想：设定" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/胡思乱想：设定" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/胡思乱想：设定" />
@@ -247,6 +278,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/tttpro/</loc>
     <lastmod>2023-08-29T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/tttpro" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/tttpro" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/tttpro" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/tttpro" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/tttpro" />
@@ -255,6 +287,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/在scratch实现简单纯画笔排版/</loc>
     <lastmod>2023-07-13T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/在scratch实现简单纯画笔排版" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/在scratch实现简单纯画笔排版" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/在scratch实现简单纯画笔排版" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/在scratch实现简单纯画笔排版" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/在scratch实现简单纯画笔排版" />
@@ -263,6 +296,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/scil/</loc>
     <lastmod>2023-07-02T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/scil" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/scil" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/scil" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/scil" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/scil" />
@@ -271,6 +305,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/自述/</loc>
     <lastmod>2023-05-02T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/自述" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/自述" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/自述" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/自述" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/自述" />
@@ -279,6 +314,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/talking/</loc>
     <lastmod>2023-05-01T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/talking" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/talking" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/talking" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/talking" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/talking" />
@@ -287,6 +323,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/一个迷宫的介绍/</loc>
     <lastmod>2023-01-15T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/一个迷宫的介绍" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/一个迷宫的介绍" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/一个迷宫的介绍" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/一个迷宫的介绍" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/一个迷宫的介绍" />
@@ -295,6 +332,7 @@
     <loc>https://forthezero.dpdns.org/blog/posts/DearPyGui笔记/</loc>
     <lastmod>2023-01-14T00:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/DearPyGui笔记" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.is-a.dev/blog/posts/DearPyGui笔记" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/DearPyGui笔记" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/DearPyGui笔记" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://for-the-zero.github.io/blog/posts/DearPyGui笔记" />
