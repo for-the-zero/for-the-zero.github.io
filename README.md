@@ -2,10 +2,12 @@
 
 # 访问方式 / How to access
 
-Gtihub Pages: [for-the-zero.github.io](https://for-the-zero.github.io/)
+选择一个链接以访问 / Choose a link to access:
 
-Netlify: [forthezero.netlify.app](https://forthezero.netlify.app/)
-
-Vercel on Vercel's Domain: [forthezero.vercel.app](https://forthezero.vercel.app/) (NOT Available in China due to GFW 国内无法访问)
-
-Vercel on My Domain: [ftz.is-a.dev](https://ftz.is-a.dev/) [https://forthezero.dpdns.org/](https://ftzero.dpdns.org/) (Available in China 国内可用)
+- [ftz.is-a.dev](https://ftz.is-a.dev) (Vercel)
+- [ftz.cc.cd](https://ftz.cc.cd) (Cloudflare Pages)
+- [ftz.pages.dev](https://ftz.pages.dev)
+- [forthezero.dpdns.org](https://forthezero.dpdns.org) (Vercel)
+- [forthezero.netlify.app](https://forthezero.netlify.app)
+- [forthezero.vercel.app](https://forthezero.vercel.app)
+- ~~[for-the-zero.github.io](https://for-the-zero.github.io)~~
