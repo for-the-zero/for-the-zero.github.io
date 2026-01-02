@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>for_the_zero的个人博客</title>
+  <link>https://ftz.is-a.dev</link>
+  <description>for_the_zero的个人博客，一个技术向的博客，分享开发经验和产品，欢迎访问</description>
+  <copyright>CC 4.0 BY</copyright>
+  <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title><![CDATA[个人网站更新！]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/siteupdate/</link>
+    <guid>siteupdate</guid>
+    <description><![CDATA[更新实在是太多了，以至于难以一一列举出来
+
+简单列一下吧
+
+---
+
+2025.09.21总结
+
+- 在blog.yaml中新增了描述和时间
+- 你可以在blog页面看到每一篇文章的时间
+- 点击首页的卡片可以下滑
+- npm run deploy会先清除旧的产物
+- 重写sitemap，可以生成包含多个url的sitemap
+- 解决了vercel博客文章url结尾不加...]]></description>
+    <pubDate>Sun, 16 Nov 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[如何注册一个免费的.is-a.dev域名？]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/isadev/</link>
+    <guid>isadev</guid>
+    <description><![CDATA[又有免费域名可以白嫖了：.is-a.dev
+
+需要用GitHub pull request进行注册
+
+这里顺手简单写一下教程，使用网页版操作
+
+（要是把这至少八九千个文件拉到本地你电脑不得炸掉，反正我没敢试）
+
+这里还有视频版
+
+# 1. 检查可用性
+
+到官网检查，里面有个Check Subdomain Availability
+
+# 2. fork仓库
+
+把Git...]]></description>
+    <pubDate>Sat, 25 Oct 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[新的个人网站上线！]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/newblog/</link>
+    <guid>newblog</guid>
+    <description><![CDATA[我的博客/个人主页更新了
+
+这一切说来话长
+
+长期以来，我的博客都是hexo的，从Matrerial主题切换到了Fluid主题
+
+现在！我写了一个新的个人主页，并把博客并入个人主页之中
+
+旧的博客的仓库已经移到了这里，你仍可以通过Github Pages访问
+
+---
+
+# 为什么做这个
+
+一个呢，是自我介绍不全面， 同时无法好好展示链接，便早早谋划了个人主页项目，然后...]]></description>
+    <pubDate>Sat, 23 Aug 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[MapPinner: 在地图上留下自己旅行时走过之处的标记]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/MapPinner/</link>
+    <guid>MapPinner</guid>
+    <description><![CDATA[MapPinner
+
+花了5天时间写完了一个软件，叫做MapPinner
+
+这是我第一次正式写安卓app，也是第一次写react native程序，顺便第一次接触typescript(tsx)
+
+react写得很顺native 一言难尽
+
+照样开源到Github，可以到release 下载
+
+b站有介绍视频哦BV1EUb1zEEFi
+
+---
+
+## 关于一些第三方库...]]></description>
+    <pubDate>Fri, 25 Jul 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[自制软件LMCanvas —— 让界面与模型交互]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/LMCanvas/</link>
+    <guid>LMCanvas</guid>
+    <description><![CDATA[LMCanvas
+
+这是一个新的尝试
+
+一个呢，我从原本大模型软件的代码预览功能扩展了一下，使其不局限于单次生成与执行，而是反复生成执行，让用户和生成的界面交互，界面把没有做好的部分交给ai，ai搞后端
+
+这源自于我的一个想法：以后的系统直接和ai交互，界面全部是ai生成的，后端操作全部是是ai处理的，但这至少一段时间内不会实现，因为算例和模型能力原因
+
+另一个呢，这是我第二次碰e...]]></description>
+    <pubDate>Tue, 01 Jul 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[asak - 一个适应速率限制的大模型api调用工具]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/asak/</link>
+    <guid>asak</guid>
+    <description><![CDATA[![](./img/2025-05-30-23-33-38-image.png)
+
+asak，一个轻量级的小项目，是我对制作python和js库的一个小尝试
+
+先挂链接：for-the-zero/asak: A LLM API Tool-API Smart Access Kit
+
+既然README和 文档都写得很清楚了，那么我就写一下心路历程（？）吧
+
+由于有一些不会的，也是找了一...]]></description>
+    <pubDate>Sat, 31 May 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[又是英语演讲]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/又是英语演讲/</link>
+    <guid>又是英语演讲</guid>
+    <description><![CDATA[我又来整活了
+
+PPT文件使用了分卷压缩，把内容解压之后重新用zip压缩，改一下后缀就能打开了
+
+001 002 003 004 005 
+
+这次视频比较多，所以文件会有一点点大——差不多是上次的5倍
+
+但是我根本没写稿子，照着上面念就行了
+
+---
+
+上来就是开幕雷击，但是由于WPS的bug没有在教室展示
+
+![](img/2025-05-10-21-57-15-im...]]></description>
+    <pubDate>Sat, 10 May 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[往我自己做的简约表格加了一点AI]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/taplesai/</link>
+    <guid>taplesai</guid>
+    <description><![CDATA[Taple's AI
+
+Taple在前面已经介绍过了
+
+这次是更新：AI调用支持
+
+打开就可以用了，还有视频介绍
+
+---
+
+## 简单介绍
+
+点击工具栏最左边的菜单栏，可以看到最下面多了个Open AI Panel点进去就能打开面板了
+
+~~不是OpenA，I但是只兼容OpenAI格式的API~~
+
+两个流畅的动画叠在一起，看起来很舒适~
+
+首先是面板，视频里...]]></description>
+    <pubDate>Sat, 05 Apr 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[Free-LLM-Collection - 一个分享关于免费的大模型API的地方]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/FLC/</link>
+    <guid>FLC</guid>
+    <description><![CDATA[这是一个关于免费的大模型api的合集，并精选了一部分模型
+
+
+我会尽可能更新维护这个项目（目前只有我一个人）
+
+
+入选原则是：限制请求速率而不是token > 尽可能多的来源 > 尽可能新且好的模型 > 足够用的请求速率
+
+
+主要是有一定热度的文本模型
+
+
+欢迎大家分享更多api
+
+
+上面是直接抄了README过来的，你还是直接打开看吧...]]></description>
+    <pubDate>Sat, 05 Apr 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[把我以前写的设定发送给了LLM]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/set2llm/</link>
+    <guid>set2llm</guid>
+    <description><![CDATA[最近突发奇想，想到了把以前写的这个玩意喂给AI看看
+
+Claude说太长了，就没看
+
+| 模型                                | 图片                                                                                   | 图片                          ...]]></description>
+    <pubDate>Sat, 22 Feb 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[Quicktools第2.1弹 - 文本展示工具、UP主动态查看工具]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/Quicktools2-5/</link>
+    <guid>Quicktools2-5</guid>
+    <description><![CDATA[Quicktools第2.1弹：文本展示工具、UP主动态查看器
+
+又来了又来了，我目前唯一一个会长期更新下去的项目
+
+照样，先贴出链接 Github GithubPages Netlify
+
+![](img/2025-02-21-22-53-22-image.png)
+
+一共两个新工具（相较于上一弹）
+
+---
+
+## 文本展示
+
+![](img/2025-02-22-...]]></description>
+    <pubDate>Sat, 22 Feb 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[Quicktools第二弹 - 按键转写、音频转颜色、简约风表格工具]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/Quicktools2/</link>
+    <guid>Quicktools2</guid>
+    <description><![CDATA[Quicktools第二弹，它来了！
+
+时隔一个学期，又做了一个东西
+
+Netlify Github Pages
+
+![](img/2025-01-23-23-46-05-image.png)
+
+从TypeTo到Taple
+
+~~除了Taple都是水~~
+
+---
+
+## TypeTo
+
+做着玩的，你按一个键屏幕上就会出现对应的字符
+
+没什么的，知识你自己不要把...]]></description>
+    <pubDate>Fri, 24 Jan 2025 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[分享一下我最近为英语演讲写的演讲搞（整活）]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/nglishSpeechShare/</link>
+    <guid>nglishSpeechShare</guid>
+    <description><![CDATA[这是我最近为英语演讲写的演讲稿（搞）
+
+PPT文件
+
+评价：
+
+![](img/IMG_20241231_153153.jpg) ![](img/IMG_20241231_153158.jpg)
+
+# 稿子
+
+乱写的，重点在ppt整活
+
+上面给了ppt，这里的<->的意思是按一下ppt（播放动画或翻页）
+
+> Good morning, everyone! <-> To...]]></description>
+    <pubDate>Tue, 31 Dec 2024 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[CapsTools - 一个利用大写锁定键触发的工具箱]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/CapsTools/</link>
+    <guid>CapsTools</guid>
+    <description><![CDATA[花了大把时间做的 CapsTools
+
+Github
+
+这个是我最近使用了二十多天的爆肝~~（辛勤劳动成果）~~，写了一个小工具
+
+介绍的话，README就有，所以这里就写开发的坑和感受之类的吧
+
+这是我第一次使用node.js开发js程序，也是我第一次使用electron开发程序，是一次非常宝贵的经验
+
+---
+
+## 前期（七月底）
+
+~~绝区零真好玩~~
+
+很...]]></description>
+    <pubDate>Fri, 30 Aug 2024 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[第一批Quicktools小工具来啦]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/Quicktools1/</link>
+    <guid>Quicktools1</guid>
+    <description><![CDATA[第一批Quicktools正式上线
+
+好不容易抽空出来做的东西，大量使用了Material Design 3，非常的好看
+
+感觉非常有用，实际没啥卵用
+
+遇事不决，先开源 https://github.com/for-the-zero/quicktools
+
+不，你直接进去部署好的吧：https://ftz-tools.netlify.app/
+
+![](img/2024-05...]]></description>
+    <pubDate>Sun, 05 May 2024 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[国产大模型对比！]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/LLM对比/</link>
+    <guid>LLM对比</guid>
+    <description><![CDATA[大模型测试
+
+最近突然想测测国产大模型的能力了，看看谁更好
+
+（2024.2.4）
+
+参赛者有通义千问、GLM4、蓝心小V
+
+按上面的顺序编号为abc
+
+仅供参考，有的可能太简单了，有的可能太难了
+
+GLM4和蓝心小V可联网，通义千问和GLM4可跑代码
+
+通义千问和GLM4为网页版，蓝心小V是手机上的（配置不够，是云端的）
+
+---
+
+# 评测维度
+
+- 理...]]></description>
+    <pubDate>Mon, 05 Feb 2024 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[相机算法对比：vivo vs Google]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/相机算法对比/</link>
+    <guid>相机算法对比</guid>
+    <description><![CDATA[相机算法对比
+
+终于把旧手圾换掉了
+
+是IQOO Neo9
+
+既然整了个大的，不如看看相机怎么样
+
+受伤没有可对比的，就看算法吧
+
+一上手就装了个谷歌相机（酷安日文大佬的）
+
+看看vivo的算法好还是谷歌的算法好
+
+下面的图片都是普通/标准模式/徕卡鲜艳、夜景/夜视仪/夜景压光模式拍摄的
+
+趁着一个外出的机会拍一拍（一年也没去过几次）
+
+---
+
+| 场景 ...]]></description>
+    <pubDate>Mon, 05 Feb 2024 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[一个提取手机apk的玩意]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/一个提取手机apk的玩意/</link>
+    <guid>一个提取手机apk的玩意</guid>
+    <description><![CDATA[apkget
+
+又是个Python+adb的项目
+
+自己有需求==>立项==>开干
+
+练练手，没什么不好
+
+---
+
+用了flet做ui（原本想用dpg的，那玩意有点问题，看上一篇文章，但是他的字体也有点问题），subprocess+os运行adb指令，re解析输出
+
+---
+
+长这样，默认窗口有点大（在我的电脑上），不知道咋调（文档里没找到）
+
+![](img/2...]]></description>
+    <pubDate>Wed, 24 Jan 2024 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[发现bug，连甩两层锅]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/甩锅/</link>
+    <guid>甩锅</guid>
+    <description><![CDATA[![](img/2024-01-23-15-49-45-image.png)
+
+刚刚正在开发时突然出现一个问题
+
+![](img/2024-01-23-15-50-43-image.png)
+
+（图片中的已修复
+
+使用文件/目录选择窗口的时候无法使用中文字形，而相同配置的其它窗口没有这个问题
+
+我排查了很久，自习看过了文档，尝试过各种方式，都不行
+
+准备去Github看看，...]]></description>
+    <pubDate>Tue, 23 Jan 2024 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[一个手机硬件状态监控的玩意]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/adb-python-状态监控/</link>
+    <guid>adb-python-状态监控</guid>
+    <description><![CDATA[Phone Info
+
+---
+
+## core.py
+
+~~感觉取这个名字不太合适~~
+
+python+adb搞的
+
+运行用了subprocess获取输出~~（为什么没有人做相关的解析库啊~~
+
+用了re识别内容
+
+内容不多
+
+- 存储空间
+
+- - 总空间
+  
+  - 已使用
+  
+  - 占用率
+
+- 电池 - 电量
+
+- CPU
+
+...]]></description>
+    <pubDate>Sat, 20 Jan 2024 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[AlanBecker视频列表：关注视频更新动态！]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/关注AB视频更新/</link>
+    <guid>关注AB视频更新</guid>
+    <description><![CDATA[ABVL
+
+Github
+
+## 起因
+
+怎么说呢，我是Alan Becker的粉丝，一直想等更新
+
+但是呢，他最近的更新不太寻常
+
+以前很长一段时间，都会在油管的社区里面发预告的，但是最近他不发了，而且突然更新有点快，我又不能没到那个时候就翻__看一下
+
+那么就有了这么一个想法，做一个能够检测更新的程序，放在外国的免费服务器上~~（孩子没钱）~~，时不时访问一下就不用每次...]]></description>
+    <pubDate>Sat, 20 Jan 2024 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[一段时间前做了一个DNA打结的东西]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/一段时间前做了一个DNA打结的东西/</link>
+    <guid>一段时间前做了一个DNA打结的东西</guid>
+    <description><![CDATA[DNA打结器
+
+一共两个
+
+语文版：mixmem
+
+化学版：tiedna
+
+用的技术不一样
+
+---
+
+# MixMem
+
+从网上忘了哪里把初中古诗词搞了过来，写了个已经删掉了的程序根据符号分段成了一行一句
+
+话说那个崽是没有强迫症吗，大多数用，，少数用,，再加上古诗词本来就有的其他符号，给我增工作量呢，滚动条拖着拖着就发现有几行特别长，一看就是没有正确分句，就这个...]]></description>
+    <pubDate>Sat, 20 Jan 2024 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[做了个叫PinCopy的玩意]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/做了个叫PinCopy的玩意/</link>
+    <guid>做了个叫PinCopy的玩意</guid>
+    <description><![CDATA[PinCopy
+
+自己做的一个小工具，但是没什么用，是一个简易剪贴板临时存储器
+
+GitHub - for-the-zero/pincopy
+
+文件不多，字体和主程序
+
+长这样
+
+![](img/2024-01-20-19-49-40-image.png)
+
+~~懒得裁了，直接放吧~~
+
+用了pyperclip操控剪贴板，pyautogui搞一点特殊操作，dpg搞界面...]]></description>
+    <pubDate>Sat, 20 Jan 2024 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[记一下自己写tttpro]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/tttpro/</link>
+    <guid>tttpro</guid>
+    <description><![CDATA[tttpro
+
+最近整了个玩意，较TicTacToePro（乱取的）
+
+Github 在线玩
+
+---
+
+# 设计
+
+1. 但是突然一想就搞了这么个项目
+
+2. 先把井字棋的所有结局和它的胜负平算出来
+
+3. 一起塞到sqlite，方便快速查找
+
+4. 玩的时候通过计算剩下可行的步骤，搜索数据库，找到最好的一步
+
+当时的想象：一个完美的对手，从来不输，直接无敌，...]]></description>
+    <pubDate>Tue, 29 Aug 2023 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[在scratch实现简单纯画笔排版]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/在scratch实现简单纯画笔排版/</link>
+    <guid>在scratch实现简单纯画笔排版</guid>
+    <description><![CDATA[在scratch实现简单纯画笔排版
+
+在线玩
+
+---
+
+食用方法：
+
+
+
+两个字符对应一个操作
+
+如果 \ 开头，执行操作：\n回车\s空格(space)
+
+
+
+其它（非强制要求）
+
+> 1. @开头
+> 
+> 表示符号，后面跟符号参数
+> 
+> 这里内置@?全字符大小@h半字符大小用于测试
+
+
+
+> 2. 其它
+> 
+> 对应的字+-，如...]]></description>
+    <pubDate>Thu, 13 Jul 2023 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[如何在scratch简单实现拼音输入法]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/scil/</link>
+    <guid>scil</guid>
+    <description><![CDATA[先放点链接：
+
+在线使用   最常见的100个汉字| 中国语言学院   字典生成   源码
+
+---
+
+# 操作说明
+
+| 按键            | 说明                            |
+|:-------------:|:-----------------------------:|
+|              | 切换输入法        ...]]></description>
+    <pubDate>Sun, 02 Jul 2023 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[自述]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/自述/</link>
+    <guid>自述</guid>
+    <description><![CDATA[自述
+
+说说我自己吧
+
+---
+
+## 小学前
+
+### 1. 玩玩具起冲突
+
+很小很小的时候，现在不记得多少事了，但我还记得这个。
+
+外婆带我去邻居家和邻居小孩玩玩具，忘了发生什么了，起了冲突，打起来了，我们被外婆拉开，同时在哭闹。
+
+突然，一辆玩具车重重地拍到我脸上，直接流了鼻血，很生气……
+
+### 2. 断鼻？
+
+忘了什么时候，记得父母说我的鼻梁断了，具...]]></description>
+    <pubDate>Tue, 02 May 2023 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[一种迷宫的介绍]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/一个迷宫的介绍/</link>
+    <guid>一个迷宫的介绍</guid>
+    <description><![CDATA[一种迷宫的介绍
+
+这个迷宫不是简单的迷宫，我和同学加过很多内容
+
+我为什么要做这个：我有一个同学，是我的好朋友，在无聊的时候我们会在纸上玩点东西，例如井字棋，后来我们玩起了迷宫，并且不断地增加东西使它~~更难~~更好玩。只可惜到后来我们到了不同的学校，从此再也没有联系过，我挺想念他的……
+
+---
+
+这个迷宫的介绍分为这几个内容：
+
+1. 基础理念
+
+2. 模块
+
+3....]]></description>
+    <pubDate>Sun, 15 Jan 2023 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+  <item>
+    <title><![CDATA[DearPyGui笔记]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/DearPyGui笔记/</link>
+    <guid>DearPyGui笔记</guid>
+    <description><![CDATA[DearPyGui 笔记
+
+一个好用的 Python GUI模块
+
+基于原文档总结出来的
+
+---
+
+---
+
+# 没有的内容
+
+（原版文档看不懂的）
+Slots · Basic Example · Container Stack · Scene Graph · 3D Operations · querying · custom series · resizing · s...]]></description>
+    <pubDate>Sat, 14 Jan 2023 08:00:00 +0800</pubDate>
+    <author>for_the_zero</author>
+  </item>
+</channel>
+</rss>
