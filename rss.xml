@@ -7,6 +7,29 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[WebTooys Quicktools 第三弹：AI记事本输入法、剪贴板图片保存、AI驱动的虚拟文章平台FakeNET]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/webtooys3/</link>
+    <guid isPermaLink="false">webtooys3</guid>
+    <description><![CDATA[![](https://ftz.is-a.dev/blog/posts/img/17f9b9313838ba507d2c7fc8c736ce606d765928.png)
+
+首页链接
+
+开始之前，先放链接
+
+随着改名（一会会提到），链接有一点变动，但也顺便增加了一些域名，哪个都行
+
+- Vercel
+- - t.ftz.is-a.dev
+- - tooys.vercel.app
+- - tools.forthezero.dpdns.org
+- Cloudflare Pages
+- - t.ftz.cc.cd
+- - tooys.pages.dev
+- Netlif...]]></description>
+    <pubDate>Sat, 03 Jan 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[个人网站更新！]]></title>
     <link>https://ftz.is-a.dev/blog/posts/siteupdate/</link>
     <guid isPermaLink="false">siteupdate</guid>
