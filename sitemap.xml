@@ -41,6 +41,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/" />
   </url>
   <url>
+    <loc>https://ftz.is-a.dev/blog/posts/domains/</loc>
+    <lastmod>2026-01-09T16:00:00.000Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/domains/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/domains/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.dpdns.org/blog/posts/domains/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/domains/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.vercel.app/blog/posts/domains/" />
+  </url>
+  <url>
     <loc>https://ftz.is-a.dev/blog/posts/webtooys3/</loc>
     <lastmod>2026-01-02T16:00:00.000Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/webtooys3/" />
