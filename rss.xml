@@ -7,6 +7,36 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[教程：怎么在U盘上装一个便携版的MC？]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/U盘MC/</link>
+    <guid isPermaLink="false">U盘MC</guid>
+    <description><![CDATA[开始
+
+或许你有这么一个需求——把MC装进U盘里面，在任意电脑任意网络环境下玩一下
+
+经过我在互联网上的搜索和时间，总结出这样一种可行方案：
+
+此教程只讨论Windows+未安装Java的环境下使用U盘玩MC，使用HMCL启动器
+
+
+
+下载启动器
+
+此处选择HMCL，因为知名度高且不想PCL2还要再依赖别的运行库
+
+使用exe版本的HMCL会要求你安装Java，与需求不符，因此要使用jar版本的HMCL
+
+官网已经删除了HMCL的jar文件，所以要到Github Release下载
+
+下载Java
+
+无论是启动HMCL还是启动游戏都要使用Java
+
+...]]></description>
+    <pubDate>Sat, 17 Jan 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[整理一下域名]]></title>
     <link>https://ftz.is-a.dev/blog/posts/domains/</link>
     <guid isPermaLink="false">domains</guid>
