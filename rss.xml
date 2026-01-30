@@ -325,20 +325,6 @@ Taple在前面已经介绍过了
     <dc:creator>for_the_zero</dc:creator>
   </item>
   <item>
-    <title><![CDATA[把我以前写的设定发送给了LLM]]></title>
-    <link>https://ftz.is-a.dev/blog/posts/set2llm/</link>
-    <guid isPermaLink="false">set2llm</guid>
-    <description><![CDATA[最近突发奇想，想到了把以前写的这个玩意喂给AI看看
-
-Claude说太长了，就没看
-
-| 模型                                | 图片                                                                                   | 图片                                                                                   |
-|: |::|::|
-| Deepseek R1（由于官方版服务器繁忙，用了腾...]]></description>
-    <pubDate>Sat, 22 Feb 2025 08:00:00 +0800</pubDate>
-    <dc:creator>for_the_zero</dc:creator>
-  </item>
-  <item>
     <title><![CDATA[Quicktools第2.1弹 - 文本展示工具、UP主动态查看工具]]></title>
     <link>https://ftz.is-a.dev/blog/posts/Quicktools2-5/</link>
     <guid isPermaLink="false">Quicktools2-5</guid>
@@ -402,8 +388,8 @@ Passkey
   </item>
   <item>
     <title><![CDATA[分享一下我最近为英语演讲写的演讲搞（整活）]]></title>
-    <link>https://ftz.is-a.dev/blog/posts/nglishSpeechShare/</link>
-    <guid isPermaLink="false">nglishSpeechShare</guid>
+    <link>https://ftz.is-a.dev/blog/posts/EnglishSpeechShare/</link>
+    <guid isPermaLink="false">EnglishSpeechShare</guid>
     <description><![CDATA[这是我最近为英语演讲写的演讲稿（搞）
 
 PPT文件
