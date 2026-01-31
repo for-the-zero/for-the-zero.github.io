@@ -7,6 +7,24 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[记录一下我的小想法]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/thought1/</link>
+    <guid isPermaLink="false">thought1</guid>
+    <description><![CDATA[前言
+
+我一直以来都有着亿点点小想法，从小学到现在，突然想起来决定写一篇博客说一下聊一聊
+
+这些想法可能已经被别人实现了，也可能科技还没发展到那个程度，有的我打算做，但是因为各种各样这原因没有做或者没成功（没时间、工期长、没能力、不会、懒得做……），有的我已经实现了我就不写了
+
+里面有些想法，或许实用，或许是个伪需求，或许很懵懂无知……但我觉得至少对我来说都有着它自己的价值，甚至说，有的可能未来就能实现了呢，也或者能够启发到别人呢
+
+例如小学的时候有一个想法，后来发现这个想法和UWB定位非常像
+
+例如我想能不能让收集背面只露出一颗镜头位置然后用内部的机械结构切换镜头，结果真...]]></description>
+    <pubDate>Sat, 31 Jan 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[教程：怎么在U盘上装一个便携版的MC？]]></title>
     <link>https://ftz.is-a.dev/blog/posts/U盘MC/</link>
     <guid isPermaLink="false">U盘MC</guid>
