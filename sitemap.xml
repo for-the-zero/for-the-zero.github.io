@@ -1,143 +1,251 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ftz.is-a.dev/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/links/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/links/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/links/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/links/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/intro/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/intro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/intro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/intro/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/thought1/</loc>
     <lastmod>2026-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/thought1/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/thought1/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/thought1/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/U%E7%9B%98MC/</loc>
     <lastmod>2026-01-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/U%E7%9B%98MC/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/U%E7%9B%98MC/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/U%E7%9B%98MC/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/domains/</loc>
     <lastmod>2026-01-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/domains/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/domains/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/domains/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/webtooys3/</loc>
     <lastmod>2026-01-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/webtooys3/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/webtooys3/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/webtooys3/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/isadev/</loc>
     <lastmod>2025-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/isadev/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/isadev/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/isadev/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/siteupdate/</loc>
     <lastmod>2026-01-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/siteupdate/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/siteupdate/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/siteupdate/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/newblog/</loc>
     <lastmod>2025-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/newblog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/newblog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/newblog/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/MapPinner/</loc>
     <lastmod>2025-07-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/MapPinner/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/MapPinner/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/MapPinner/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/LMCanvas/</loc>
     <lastmod>2025-07-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/LMCanvas/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/LMCanvas/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/LMCanvas/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/asak/</loc>
     <lastmod>2025-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/asak/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/asak/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/asak/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/%E5%8F%88%E6%98%AF%E8%8B%B1%E8%AF%AD%E6%BC%94%E8%AE%B2/</loc>
     <lastmod>2025-05-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/%E5%8F%88%E6%98%AF%E8%8B%B1%E8%AF%AD%E6%BC%94%E8%AE%B2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/%E5%8F%88%E6%98%AF%E8%8B%B1%E8%AF%AD%E6%BC%94%E8%AE%B2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/%E5%8F%88%E6%98%AF%E8%8B%B1%E8%AF%AD%E6%BC%94%E8%AE%B2/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/taplesai/</loc>
     <lastmod>2025-04-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/taplesai/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/taplesai/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/taplesai/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/FLC/</loc>
     <lastmod>2025-04-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/FLC/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/FLC/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/FLC/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/Quicktools2-5/</loc>
     <lastmod>2025-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/Quicktools2-5/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/Quicktools2-5/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/Quicktools2-5/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/Quicktools2/</loc>
     <lastmod>2025-01-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/Quicktools2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/Quicktools2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/Quicktools2/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/EnglishSpeechShare/</loc>
     <lastmod>2024-12-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/EnglishSpeechShare/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/EnglishSpeechShare/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/EnglishSpeechShare/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/CapsTools/</loc>
     <lastmod>2024-08-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/CapsTools/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/CapsTools/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/CapsTools/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/Quicktools1/</loc>
     <lastmod>2024-05-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/Quicktools1/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/Quicktools1/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/Quicktools1/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/LLM%E5%AF%B9%E6%AF%94/</loc>
     <lastmod>2024-02-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/LLM%E5%AF%B9%E6%AF%94/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/LLM%E5%AF%B9%E6%AF%94/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/LLM%E5%AF%B9%E6%AF%94/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/%E7%9B%B8%E6%9C%BA%E7%AE%97%E6%B3%95%E5%AF%B9%E6%AF%94/</loc>
     <lastmod>2024-02-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/%E7%9B%B8%E6%9C%BA%E7%AE%97%E6%B3%95%E5%AF%B9%E6%AF%94/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/%E7%9B%B8%E6%9C%BA%E7%AE%97%E6%B3%95%E5%AF%B9%E6%AF%94/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/%E7%9B%B8%E6%9C%BA%E7%AE%97%E6%B3%95%E5%AF%B9%E6%AF%94/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/%E4%B8%80%E4%B8%AA%E6%8F%90%E5%8F%96%E6%89%8B%E6%9C%BAapk%E7%9A%84%E7%8E%A9%E6%84%8F/</loc>
     <lastmod>2024-01-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/%E4%B8%80%E4%B8%AA%E6%8F%90%E5%8F%96%E6%89%8B%E6%9C%BAapk%E7%9A%84%E7%8E%A9%E6%84%8F/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/%E4%B8%80%E4%B8%AA%E6%8F%90%E5%8F%96%E6%89%8B%E6%9C%BAapk%E7%9A%84%E7%8E%A9%E6%84%8F/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/%E4%B8%80%E4%B8%AA%E6%8F%90%E5%8F%96%E6%89%8B%E6%9C%BAapk%E7%9A%84%E7%8E%A9%E6%84%8F/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/%E7%94%A9%E9%94%85/</loc>
     <lastmod>2024-01-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/%E7%94%A9%E9%94%85/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/%E7%94%A9%E9%94%85/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/%E7%94%A9%E9%94%85/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/adb-python-%E7%8A%B6%E6%80%81%E7%9B%91%E6%8E%A7/</loc>
     <lastmod>2024-01-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/adb-python-%E7%8A%B6%E6%80%81%E7%9B%91%E6%8E%A7/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/adb-python-%E7%8A%B6%E6%80%81%E7%9B%91%E6%8E%A7/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/adb-python-%E7%8A%B6%E6%80%81%E7%9B%91%E6%8E%A7/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/%E5%85%B3%E6%B3%A8AB%E8%A7%86%E9%A2%91%E6%9B%B4%E6%96%B0/</loc>
     <lastmod>2024-01-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/%E5%85%B3%E6%B3%A8AB%E8%A7%86%E9%A2%91%E6%9B%B4%E6%96%B0/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/%E5%85%B3%E6%B3%A8AB%E8%A7%86%E9%A2%91%E6%9B%B4%E6%96%B0/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/%E5%85%B3%E6%B3%A8AB%E8%A7%86%E9%A2%91%E6%9B%B4%E6%96%B0/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E5%89%8D%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AADNA%E6%89%93%E7%BB%93%E7%9A%84%E4%B8%9C%E8%A5%BF/</loc>
     <lastmod>2024-01-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E5%89%8D%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AADNA%E6%89%93%E7%BB%93%E7%9A%84%E4%B8%9C%E8%A5%BF/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E5%89%8D%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AADNA%E6%89%93%E7%BB%93%E7%9A%84%E4%B8%9C%E8%A5%BF/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E5%89%8D%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AADNA%E6%89%93%E7%BB%93%E7%9A%84%E4%B8%9C%E8%A5%BF/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/%E5%81%9A%E4%BA%86%E4%B8%AA%E5%8F%ABPinCopy%E7%9A%84%E7%8E%A9%E6%84%8F/</loc>
     <lastmod>2024-01-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/%E5%81%9A%E4%BA%86%E4%B8%AA%E5%8F%ABPinCopy%E7%9A%84%E7%8E%A9%E6%84%8F/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/%E5%81%9A%E4%BA%86%E4%B8%AA%E5%8F%ABPinCopy%E7%9A%84%E7%8E%A9%E6%84%8F/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/%E5%81%9A%E4%BA%86%E4%B8%AA%E5%8F%ABPinCopy%E7%9A%84%E7%8E%A9%E6%84%8F/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/tttpro/</loc>
     <lastmod>2023-08-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/tttpro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/tttpro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/tttpro/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/%E5%9C%A8scratch%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E7%BA%AF%E7%94%BB%E7%AC%94%E6%8E%92%E7%89%88/</loc>
     <lastmod>2023-07-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/%E5%9C%A8scratch%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E7%BA%AF%E7%94%BB%E7%AC%94%E6%8E%92%E7%89%88/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/%E5%9C%A8scratch%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E7%BA%AF%E7%94%BB%E7%AC%94%E6%8E%92%E7%89%88/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/%E5%9C%A8scratch%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E7%BA%AF%E7%94%BB%E7%AC%94%E6%8E%92%E7%89%88/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/scil/</loc>
     <lastmod>2023-07-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/scil/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/scil/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/scil/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/%E8%87%AA%E8%BF%B0/</loc>
     <lastmod>2023-05-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/%E8%87%AA%E8%BF%B0/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/%E8%87%AA%E8%BF%B0/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/%E8%87%AA%E8%BF%B0/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/%E4%B8%80%E4%B8%AA%E8%BF%B7%E5%AE%AB%E7%9A%84%E4%BB%8B%E7%BB%8D/</loc>
     <lastmod>2023-01-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/%E4%B8%80%E4%B8%AA%E8%BF%B7%E5%AE%AB%E7%9A%84%E4%BB%8B%E7%BB%8D/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/%E4%B8%80%E4%B8%AA%E8%BF%B7%E5%AE%AB%E7%9A%84%E4%BB%8B%E7%BB%8D/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/%E4%B8%80%E4%B8%AA%E8%BF%B7%E5%AE%AB%E7%9A%84%E4%BB%8B%E7%BB%8D/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/DearPyGui%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-01-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/DearPyGui%E7%AC%94%E8%AE%B0/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/DearPyGui%E7%AC%94%E8%AE%B0/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/DearPyGui%E7%AC%94%E8%AE%B0/" />
   </url>
 </urlset>
