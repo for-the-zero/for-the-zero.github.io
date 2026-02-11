@@ -7,6 +7,34 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[科技杂谈1：从系统到AI，从软件到互联网]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/杂谈1/</link>
+    <guid isPermaLink="false">杂谈1</guid>
+    <description><![CDATA[前言
+
+免责声明：这篇文章写的是我的个人主观观点、主观体验和一些客观事实，以批评为主，不存在与任何公司的利益输送关系，目的是希望大家进步，为用户带来更好地体验
+
+部分数据的收集使用了AI，主要使用MiniMax、ChatGLM
+
+像是百度搜索、流氓软件这些已经烂大街了的我这里不再去提，还有一些东西经过考虑后我也不打算写了
+
+更多内容可以再最底下评论区聊
+
+文章稍微有点长，可利用右上角的目录跳转功能
+
+杂谈
+
+苹果：从引领者到追赶者
+
+从前
+
+乔布斯时代，乔布斯带领苹果定义了新的产品类别：Macintosh、iPod、iPhone、iPad……
+
+引入了引...]]></description>
+    <pubDate>Wed, 11 Feb 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[记录一下我的小想法]]></title>
     <link>https://ftz.is-a.dev/blog/posts/thought1/</link>
     <guid isPermaLink="false">thought1</guid>

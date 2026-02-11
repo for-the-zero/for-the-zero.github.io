@@ -25,6 +25,13 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/" />
   </url>
   <url>
+    <loc>https://ftz.is-a.dev/blog/posts/%E6%9D%82%E8%B0%881/</loc>
+    <lastmod>2026-02-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/%E6%9D%82%E8%B0%881/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/%E6%9D%82%E8%B0%881/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://forthezero.netlify.app/blog/posts/%E6%9D%82%E8%B0%881/" />
+  </url>
+  <url>
     <loc>https://ftz.is-a.dev/blog/posts/thought1/</loc>
     <lastmod>2026-01-31</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/thought1/" />
