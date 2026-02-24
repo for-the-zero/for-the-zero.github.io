@@ -7,6 +7,27 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[WebTooys第3.5弹更新 —— GPT/RSVP阅读器、抠图工具、QQ空间导出记录查看器、摄像头画面AI生成颜文字]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/webtooys3-5/</link>
+    <guid isPermaLink="false">webtooys3-5</guid>
+    <description><![CDATA[![](https://ftz.is-a.dev/blog/posts/img/image-20260223224243260.png)
+
+前言
+
+依旧先放链接，这里就放两个了：t.ftz.is-a.dev或t.ftz.cc.cd
+
+这次更新了5个，但是前面3个比较水，暂定叫3.5弹更新了
+
+这次既没有2的重磅、单项目超长的时间跨度Taple花费了一个学期长一点点的时间、高技术力，也没有3超多的精力花费目前相隔时间最长（尤其是学业加重的情况下），这次主要是在这个寒假完成的，甚至最重要的两个是在春节期间做出来的
+
+我调整了一下，决定以后将要：
+
+- 用AI辅助加速编程
+...]]></description>
+    <pubDate>Tue, 24 Feb 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[科技杂谈1：从系统到AI，从软件到互联网]]></title>
     <link>https://ftz.is-a.dev/blog/posts/杂谈1/</link>
     <guid isPermaLink="false">杂谈1</guid>
