@@ -7,6 +7,32 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[个人网站更新！]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/siteupdate/</link>
+    <guid isPermaLink="false">siteupdate</guid>
+    <description><![CDATA[更新实在是太多了，以至于难以一一列举出来
+
+简单列一下吧
+
+
+
+总结
+
+2025.09.21 总结
+
+- 在blog.yaml中新增了描述和时间
+- 你可以在blog页面看到每一篇文章的时间
+- 点击首页的卡片可以下滑
+- npm run deploy会先清除旧的产物
+- 重写sitemap，可以生成包含多个url的sitemap
+- 解决了vercel博客文章url结尾不加斜杠就不能访问资源的问题
+- 在生成sitemap的同时顺便更改404页面，实现自动跳转回到404.html
+- 文章目录优化，展开目录只能点击右边的按钮了，展开的时候也不会跳转了
+- ...]]></description>
+    <pubDate>Sun, 22 Mar 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[WebTooys第3.5弹更新 —— GPT/RSVP阅读器、抠图工具、QQ空间导出记录查看器、摄像头画面AI生成颜文字]]></title>
     <link>https://ftz.is-a.dev/blog/posts/webtooys3-5/</link>
     <guid isPermaLink="false">webtooys3-5</guid>
@@ -115,7 +141,7 @@
 
 不管了，就这样吧，我就单开一篇帖子专门用于收集我使用过的域名们~~，某种程度上算是导航站了~~
 
-| 域名来源         | 服务提供               | 内容            | url                                                                      ...]]></description>
+|   域名来源   |      服务提供      |            内容            |                             url                              |        ...]]></description>
     <pubDate>Sat, 10 Jan 2026 00:00:00 +0800</pubDate>
     <dc:creator>for_the_zero</dc:creator>
   </item>
@@ -140,32 +166,6 @@
 - - tooys.pages.dev
 - Netlif...]]></description>
     <pubDate>Sat, 03 Jan 2026 00:00:00 +0800</pubDate>
-    <dc:creator>for_the_zero</dc:creator>
-  </item>
-  <item>
-    <title><![CDATA[个人网站更新！]]></title>
-    <link>https://ftz.is-a.dev/blog/posts/siteupdate/</link>
-    <guid isPermaLink="false">siteupdate</guid>
-    <description><![CDATA[更新实在是太多了，以至于难以一一列举出来
-
-简单列一下吧
-
-
-
-总结
-
-2025.09.21 总结
-
-- 在blog.yaml中新增了描述和时间
-- 你可以在blog页面看到每一篇文章的时间
-- 点击首页的卡片可以下滑
-- npm run deploy会先清除旧的产物
-- 重写sitemap，可以生成包含多个url的sitemap
-- 解决了vercel博客文章url结尾不加斜杠就不能访问资源的问题
-- 在生成sitemap的同时顺便更改404页面，实现自动跳转回到404.html
-- 文章目录优化，展开目录只能点击右边的按钮了，展开的时候也不会跳转了
-- ...]]></description>
-    <pubDate>Fri, 02 Jan 2026 00:00:00 +0800</pubDate>
     <dc:creator>for_the_zero</dc:creator>
   </item>
   <item>
@@ -425,7 +425,7 @@ Taple在前面已经介绍过了
 
 时隔一个学期，又做了一个东西
 
-Netlify Github Pages
+Netlify / Github Pages
 
 ![](https://ftz.is-a.dev/blog/posts/img/2025-01-23-23-46-05-image.png)
 
@@ -449,7 +449,7 @@ Passkey
 
 嘿！这是一种密文
 
-从左到右读取，每一个“字符”是1*3的矩...]]></description>
+从左到右读取，每一个“字符”是1*3...]]></description>
     <pubDate>Fri, 24 Jan 2025 08:00:00 +0800</pubDate>
     <dc:creator>for_the_zero</dc:creator>
   </item>
@@ -517,7 +517,7 @@ js用三目...]]></description>
 
 感觉非常有用，实际没啥卵用
 
-遇事不决，先开源 https://github.com/for-the-zero/quicktools
+遇事不决，先开源 Github
 
 不，你直接进去部署好的吧：https://ftz-tools.netlify.app/
 
@@ -527,7 +527,9 @@ js用三目...]]></description>
 
 那我说点别的吧！
 
-TOD...]]></description>
+TODO
+
+![](https://ftz.is-a.dev/blog/p...]]></description>
     <pubDate>Sun, 05 May 2024 08:00:00 +0800</pubDate>
     <dc:creator>for_the_zero</dc:creator>
   </item>

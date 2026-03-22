@@ -10,4 +10,3 @@
 - [forthezero.dpdns.org](https://forthezero.dpdns.org) (Vercel)
 - [forthezero.netlify.app](https://forthezero.netlify.app)
 - [forthezero.vercel.app](https://forthezero.vercel.app)
-- ~~[for-the-zero.github.io](https://for-the-zero.github.io)~~
