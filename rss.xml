@@ -7,6 +7,27 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[vAIbe - 用Vibe Coing做一个AI？]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/vAIbe1/</link>
+    <guid isPermaLink="false">vAIbe1</guid>
+    <description><![CDATA[一段时间前我突发奇想，要不我也试着搞一个AI？可是我太菜了，不会啊，不过既然AI都这么发展了，要不用vibe coding试试呢？
+
+于是就有了这个vAIbe项目——即vibe+ AI
+
+顺带一提，代码放在Github和Huggingface上
+
+开始之前
+
+首先是写一个系统提示词AGENT.md，然后用符号链接把IFLOW.md和GEMINI.md给绑上了（虽然一直用的都是iflow，根本没用Gemini）
+
+大概的内容是，我在TASK.md里面写一下我的想法和设计，AI自己补充完成PLAN.md，然后照做
+
+随你便让它分析了一下我的电脑配置，太烂了，玩点小的吧
+...]]></description>
+    <pubDate>Sat, 28 Mar 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[个人网站更新！]]></title>
     <link>https://ftz.is-a.dev/blog/posts/siteupdate/</link>
     <guid isPermaLink="false">siteupdate</guid>
