@@ -1,1 +1,1 @@
-import"../../../assets/global-CtQNayef.js";import"../自述/index.js";import"../../../assets/arrow-back-CBW-sa7a.js";import"../../../assets/access-time-kSr4Rg2P.js";import"../../../assets/shuffle-IsMd54ov.js";
+import"../../../assets/global-QKjsqmE1.js";import"../自述/index.js";import"../../../assets/arrow-back-T7x_UJUz.js";import"../../../assets/access-time-CdxwYokS.js";import"../../../assets/shuffle-DxzY_Mmw.js";
