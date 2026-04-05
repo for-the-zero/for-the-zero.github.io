@@ -7,6 +7,28 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[小想法2——如何让AI拥有生命？]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/thought2/</link>
+    <guid isPermaLink="false">thought2</guid>
+    <description><![CDATA[前言
+
+没想到我的小想法系列还有更新，我自己都有点意外
+
+上次只是把过去的产生过的想法收集了起来，写了一篇水水的文章
+
+虽然这一篇文章依旧有不合理的不实际的不正确的地方，毕竟知识有限~~，我要是大神的话就用更好的方式做出来了~~，只是来分享一下罢了，甚至有些可能别人已经想过了甚至实现了
+
+但是这有点不一样，整篇文章我将围绕一个问题展开：
+
+如何让AI拥有生命？
+
+换句话说，我想要知道的是，如何让AI拥有情感、想象力和创造力、个性
+
+现如今AI正在朝着智能化的方向发展，可是除了作为代码助手、工作帮手之外，情感支持也是很重要。的一部分，虽然AI公司似乎并不想GPT-4o...]]></description>
+    <pubDate>Sun, 05 Apr 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[vAIbe - 用Vibe Coing做一个AI？]]></title>
     <link>https://ftz.is-a.dev/blog/posts/vAIbe1/</link>
     <guid isPermaLink="false">vAIbe1</guid>
@@ -162,7 +184,7 @@
 
 不管了，就这样吧，我就单开一篇帖子专门用于收集我使用过的域名们~~，某种程度上算是导航站了~~
 
-|   域名来源   |      服务提供      |            内容            |                             url                              |        ...]]></description>
+| 域名来源         | 服务提供               | 内容            | url                                                                      ...]]></description>
     <pubDate>Sat, 10 Jan 2026 00:00:00 +0800</pubDate>
     <dc:creator>for_the_zero</dc:creator>
   </item>
