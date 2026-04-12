@@ -7,6 +7,35 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[DearPyGui笔记]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/DearPyGui笔记/</link>
+    <guid isPermaLink="false">DearPyGui笔记</guid>
+    <description><![CDATA[> 这个是根据2023年初纯人工原版的基础上经过AI修正的版本，因为我看搜索引擎后台有不少是搞到了这篇文章，遂修改，但是我懒得修，让AI干了
+
+DearPyGui 笔记
+
+一个好用的 Python GUI模块
+
+基于原文档总结出来的
+
+
+
+
+
+总体
+
+
+
+基础
+
+主脚本必须始终
+
+| 事件          | 代码                                                            | 注释                                          |
+|:--:|:- |:-...]]></description>
+    <pubDate>Sun, 12 Apr 2026 08:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[小想法2——如何让AI拥有生命？]]></title>
     <link>https://ftz.is-a.dev/blog/posts/thought2/</link>
     <guid isPermaLink="false">thought2</guid>
@@ -184,7 +213,7 @@
 
 不管了，就这样吧，我就单开一篇帖子专门用于收集我使用过的域名们~~，某种程度上算是导航站了~~
 
-| 域名来源         | 服务提供               | 内容            | url                                                                      ...]]></description>
+|   域名来源   |      服务提供      |            内容            |                             url                              |        ...]]></description>
     <pubDate>Sat, 10 Jan 2026 00:00:00 +0800</pubDate>
     <dc:creator>for_the_zero</dc:creator>
   </item>
@@ -999,44 +1028,6 @@ streamlit
 
 | 内容          ...]]></description>
     <pubDate>Sun, 15 Jan 2023 08:00:00 +0800</pubDate>
-    <dc:creator>for_the_zero</dc:creator>
-  </item>
-  <item>
-    <title><![CDATA[DearPyGui笔记]]></title>
-    <link>https://ftz.is-a.dev/blog/posts/DearPyGui笔记/</link>
-    <guid isPermaLink="false">DearPyGui笔记</guid>
-    <description><![CDATA[DearPyGui 笔记
-
-一个好用的 Python GUI模块
-
-基于原文档总结出来的
-
-
-
-
-
-没有的内容
-
-（原版文档看不懂的）
-Slots · Basic Example · Container Stack · Scene Graph · 3D Operations · querying · custom series · resizing · stretch · ...
-
-
-
-
-
-
-总体
-
-
-
-基础
-
-主脚本必须始终
-
-事件|代码|注释
-:--:|:|:--:
-导入|import dearpygui.dearpygui as...]]></description>
-    <pubDate>Sat, 14 Jan 2023 08:00:00 +0800</pubDate>
     <dc:creator>for_the_zero</dc:creator>
   </item>
 </channel>
