@@ -1,12 +1,11 @@
-# 这是我的个人网站 / This is my personal website.
+You can found this in /dist
 
-# 访问方式 / How to access
+你可以在/dist中找到这个文件
 
-选择一个链接以访问 / Choose a link to access:
+After you upload to GitHub, it will be your repository's README file.
 
-- [ftz.is-a.dev](https://ftz.is-a.dev) (Netlify)
-- [ftz.cc.cd](https://ftz.cc.cd) (Vercel)
-- [ftz.pages.dev](https://ftz.pages.dev)
-- [forthezero.dpdns.org](https://forthezero.dpdns.org) (Vercel)
-- [forthezero.netlify.app](https://forthezero.netlify.app)
-- [forthezero.vercel.app](https://forthezero.vercel.app)
+上传到GitHub后，将作为你的仓库中的README文件
+
+If you don't want this file, just delete me.
+
+不想要就删掉我
