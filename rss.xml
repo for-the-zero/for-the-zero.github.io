@@ -69,12 +69,12 @@ DearPyGui 笔记
 
 开始之前
 
-首先是写一个系统提示词AGENT.md，然后用符号链接把IFLOW.md和GEMINI.md给绑上了（虽然一直用的都是iflow，根本没用Gemini）
+首先是写一个系统提示词AGENTS.md，然后用符号链接把IFLOW.md和GEMINI.md给绑上了（虽然一直用的都是iflow，根本没用Gemini）
 
 大概的内容是，我在TASK.md里面写一下我的想法和设计，AI自己补充完成PLAN.md，然后照做
 
 随你便让它分析了一下我的电脑配置，太烂了，玩点小的吧
-...]]></description>
+...]]></description>
     <pubDate>Sat, 28 Mar 2026 00:00:00 +0800</pubDate>
     <dc:creator>for_the_zero</dc:creator>
   </item>
@@ -396,13 +396,13 @@ PPT文件使用了分卷压缩，把内容解压之后重新用zip压缩，改�
 
 
 
-上来就是开幕雷击，但是由于WPS的bug没有在教室展示
+上来就是开幕雷击，但是由于WPS的bug没有在教室能展示，可惜了
 
-![](https://ftz.is-a.dev/blog/posts/img/2025-05-10-21-57-15-image.png)
+~~注意看右括号右边那个是PPT视角（画面）哦，不是别的什么东西哦~~
 
-表情包展示
+~~老师说大一点才能让同学们看清~~
 
-![](https://ftz.is-a.dev/blog/posts/img/2025-05-10...]]></description>
+![](https://ftz.is-a.dev/blog/posts/img/2025-05-10-21-57-15-image.p...]]></description>
     <pubDate>Sat, 10 May 2025 08:00:00 +0800</pubDate>
     <dc:creator>for_the_zero</dc:creator>
   </item>

@@ -8,13 +8,13 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link rel="icon" type="image/svg+xml" href="../assets/icon-C_xfY1Pr.svg" />
         <meta name="robots" content="index, follow">
-      <script type="module" crossorigin src="../assets/intro/index-CYCA0DgS.js"></script>
-      <link rel="modulepreload" crossorigin href="../assets/global-D8e1Tz7b.js">
+      <script type="module" crossorigin src="../assets/intro/index-ByWO_REn.js"></script>
+      <link rel="modulepreload" crossorigin href="../assets/global-TiwYQkvh.js">
       <link rel="modulepreload" crossorigin href="../assets/modulepreload-polyfill-CXK8biUa.js">
-      <link rel="modulepreload" crossorigin href="../assets/arrow-back-BHx6lv8S.js">
-      <link rel="modulepreload" crossorigin href="../assets/shuffle-HpIsQa42.js">
-      <link rel="modulepreload" crossorigin href="../assets/collapse-item-Cd_2y9I6.js">
-      <link rel="stylesheet" crossorigin href="../assets/index-yYLpQPkh.css">
+      <link rel="modulepreload" crossorigin href="../assets/arrow-back-Bp-UgyBk.js">
+      <link rel="modulepreload" crossorigin href="../assets/shuffle-BoRnnAxP.js">
+      <link rel="modulepreload" crossorigin href="../assets/collapse-item-DGVpp3ns.js">
+      <link rel="stylesheet" crossorigin href="../assets/index-DDAvOxnO.css">
     
 <meta name="description" content="基础信息 Basic Information 个人性格 Personality 正在做的事 What I'm Doing">
 <meta property="og:description" content="基础信息 Basic Information 个人性格 Personality 正在做的事 What I'm Doing">
@@ -31,43 +31,41 @@
 
         <div class="v-box container">
 
-            <div class="boxes">
+            <div class="auto-box basic-info">
+                <div class="v-box"> 
+                    <mdui-avatar style="
+                        width: 45vw;height: 45vw;
+                        max-width: 30vh;max-height: 30vh;
+                        margin-bottom: 10px;
+                    "></mdui-avatar>
+                    <h1></h1>
+                    <p style="font-size: 1em;"></p>
+                    <mdui-divider style="width: 100%; margin: 10px;"></mdui-divider>
+                    <p style="font-size: 1.12em;"></p>
+                </div>
                 <div class="v-box">
-                    <div class="h-box">
-                        <div class="v-box">
-                            <mdui-card variant="outlined">
-                                <mdui-avatar style="width: 100px; height: 100px;"></mdui-avatar>
-                            </mdui-card>
-                            <mdui-card variant="outlined">
-                                <p><!----></p>
-                            </mdui-card>
+                    <h2 style="font-size: 1.45em;"></h2>
+                    <div class="v-box">
+                        <div class="bi-lns">
+                            <p style="color: rgb(var(--mdui-color-outline));"></p>
+                            <mdui-icon-wc style="color: rgb(var(--mdui-color-outline));"></mdui-icon-wc>
                         </div>
-                        <div class="v-box">
-                            <mdui-card variant="outlined">
-                                <p><!----></p>
-                            </mdui-card>
-                            <div class="h-box">
-                                <div class="v-box" style="flex: 2;">
-                                    <mdui-card variant="outlined" style="flex: 2;">
-                                        <p><!----></p>
-                                    </mdui-card>
-                                    <mdui-card variant="outlined">
-                                        <p><!----></p>
-                                    </mdui-card>
-                                </div>
-                                <mdui-card variant="outlined">
-                                    <p><!----></p>
-                                </mdui-card>
-                            </div>
+                        <div class="bi-lns">
+                            <p style="color: rgb(var(--mdui-color-outline));"></p>
+                            <mdui-icon-cake--outlined style="color: rgb(var(--mdui-color-outline));"></mdui-icon-cake--outlined>
                         </div>
-                    </div>
-                    <div class="h-box">
-                        <mdui-card variant="outlined">
-                            <p><!----></p>
-                        </mdui-card>
-                        <mdui-card variant="outlined" style="flex: 2;">
-                            <p><!----></p>
-                        </mdui-card>
+                        <div class="bi-lns">
+                            <p style="color: rgb(var(--mdui-color-outline));"></p>
+                            <mdui-icon-favorite-border style="color: rgb(var(--mdui-color-outline));"></mdui-icon-favorite-border>
+                        </div>
+                        <div class="bi-lns">
+                            <p style="color: rgb(var(--mdui-color-outline));"></p>
+                            <mdui-icon-location-on--outlined style="color: rgb(var(--mdui-color-outline));"></mdui-icon-location-on--outlined>
+                        </div>
+                        <div class="bi-lns">
+                            <p style="color: rgb(var(--mdui-color-outline));"></p>
+                            <mdui-icon-more-horiz style="color: rgb(var(--mdui-color-outline));"></mdui-icon-more-horiz>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -76,6 +74,7 @@
 
             <mdui-card variant="filled" class="intros">
                 <h3><!----></h3>
+                <mdui-linear-progress></mdui-linear-progress>
                 <p><!----></p>
                 <mdui-fab>
                     <mdui-icon-shuffle slot="icon"></mdui-icon-shuffle>
@@ -84,6 +83,7 @@
 
             <mdui-card variant="filled" class="sens">
                 <h3><!----></h3>
+                <mdui-linear-progress></mdui-linear-progress>
                 <p><!----></p>
                 <h6><!----></h6>
                 <mdui-fab>
@@ -115,7 +115,7 @@
                         </mdui-chip>
                     </div>
                     <mdui-collapse>
-                        <mdui-collapse-item style="overflow-x: scroll;">
+                        <mdui-collapse-item style="overflow-x: hidden;">
                             <mdui-list-item slot="header">
                                 <mdui-icon-history slot="icon"></mdui-icon-history>
                                 <span><!----></span>
@@ -152,7 +152,7 @@
                         </mdui-chip>
                     </div>
                     <mdui-collapse>
-                        <mdui-collapse-item style="overflow-x: scroll;">
+                        <mdui-collapse-item style="overflow-x: hidden;">
                             <mdui-list-item slot="header">
                                 <mdui-icon-history slot="icon"></mdui-icon-history>
                                 <span><!----></span>
