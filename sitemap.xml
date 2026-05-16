@@ -6,19 +6,9 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/" />
   </url>
   <url>
-    <loc>https://ftz.is-a.dev/links/</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/links/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/links/" />
-  </url>
-  <url>
     <loc>https://ftz.is-a.dev/intro/</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/intro/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/intro/" />
-  </url>
-  <url>
-    <loc>https://ftz.is-a.dev/blog/</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/" />
   </url>
   <url>
     <loc>https://ftz.is-a.dev/blog/posts/thought2/</loc>
@@ -235,5 +225,15 @@
     <lastmod>2026-04-12</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/posts/DearPyGui%E7%AC%94%E8%AE%B0/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/posts/DearPyGui%E7%AC%94%E8%AE%B0/" />
+  </url>
+  <url>
+    <loc>https://ftz.is-a.dev/blog/?lang=zh-cn</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/blog/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/blog/?lang=zh-CN" />
+  </url>
+  <url>
+    <loc>https://ftz.is-a.dev/links/?lang=zh-cn</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.cc.cd/links/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ftz.pages.dev/links/?lang=zh-CN" />
   </url>
 </urlset>

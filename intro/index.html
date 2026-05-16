@@ -6,14 +6,13 @@
         <title>Loading...</title>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="icon" type="image/svg+xml" href="../assets/icon-C_xfY1Pr.svg" />
+        <link rel="icon" type="image/svg+xml" href="../assets/icon-BxuRo8Du.svg" />
         <meta name="robots" content="index, follow">
-      <script type="module" crossorigin src="../assets/intro/index-Cc4E_-Zf.js"></script>
-      <link rel="modulepreload" crossorigin href="../assets/global-tIlbEZB8.js">
+      <script type="module" crossorigin src="../assets/intro/index-DIH4VDVa.js"></script>
+      <link rel="modulepreload" crossorigin href="../assets/global-Dpgcb0rQ.js">
       <link rel="modulepreload" crossorigin href="../assets/modulepreload-polyfill-CXK8biUa.js">
-      <link rel="modulepreload" crossorigin href="../assets/arrow-back-CXi755_9.js">
-      <link rel="modulepreload" crossorigin href="../assets/shuffle-C7_8Z3SN.js">
-      <link rel="stylesheet" crossorigin href="../assets/index-pLx8vfdD.css">
+      <link rel="modulepreload" crossorigin href="../assets/collapse-item-JVKLZ_BB.js">
+      <link rel="stylesheet" crossorigin href="../assets/index-B1nQpDc-.css">
     
 <meta name="description" content="基础信息 Basic Information 个人性格 Personality 正在做的事 What I'm Doing">
 <meta property="og:description" content="基础信息 Basic Information 个人性格 Personality 正在做的事 What I'm Doing">
@@ -23,11 +22,55 @@
 </head>
     <body>
         <mdui-top-app-bar scroll-behavior="elevate">
-            <mdui-button-icon href="..">
-                <mdui-icon-arrow-back></mdui-icon-arrow-back>
+            <mdui-button-icon class="sidebar-open-btn">
+                <mdui-icon-menu></mdui-icon-menu>
             </mdui-button-icon>
             <mdui-top-app-bar-title><!----></mdui-top-app-bar-title>
         </mdui-top-app-bar>
+
+        <mdui-navigation-drawer modal close-on-overlay-click close-on-esc class="sidebar">
+            <div class="v-box">
+                <mdui-list>
+                    <mdui-list-item nonclickable>
+                        <div slot="description" class="h-box">
+                            <mdui-avatar></mdui-avatar>
+                            <span><!----></span>
+                        </div>
+                    </mdui-list-item>
+                    <mdui-list-item rounded href="../">
+                        <mdui-icon-home slot="icon"></mdui-icon-home>
+                        <span><!----></span>
+                    </mdui-list-item>
+                    <mdui-list-item rounded active>
+                        <mdui-icon-badge slot="icon"></mdui-icon-badge>
+                        <span><!----></span>
+                    </mdui-list-item>
+                    <mdui-list-item rounded href="../links/">
+                        <mdui-icon-link slot="icon"></mdui-icon-link>
+                        <span><!----></span>
+                    </mdui-list-item>
+                    <mdui-list-item rounded href="../blog/">
+                        <mdui-icon-article slot="icon"></mdui-icon-article>
+                        <span><!----></span>
+                    </mdui-list-item>
+                </mdui-list>
+                <div class="v-box">
+                    <div class="h-box glb-ctrl">
+                        <mdui-tooltip content="">
+                            <mdui-button-icon><mdui-icon-light></mdui-icon-light></mdui-button-icon>
+                        </mdui-tooltip>
+                        <mdui-tooltip content="">
+                            <mdui-button-icon><mdui-icon-translate></mdui-icon-translate></mdui-button-icon>
+                        </mdui-tooltip>
+                        <mdui-tooltip content="">
+                            <mdui-button-icon><mdui-icon-wallpaper></mdui-icon-wallpaper></mdui-button-icon>
+                        </mdui-tooltip>
+                        <div></div>
+                    </div>
+                    <p class="footer"><!----></p>
+                </div>
+            </div>
+        </mdui-navigation-drawer>
 
         <div class="v-box container">
 
@@ -77,7 +120,7 @@
                 <mdui-linear-progress></mdui-linear-progress>
                 <p><!----></p>
                 <mdui-fab>
-                    <mdui-icon-shuffle slot="icon"></mdui-icon-shuffle>
+                    <mdui-icon slot="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 8C13.45 8 13 7.55 13 7S13.45 6 14 6C14.55 6 15 6.45 15 7C15 7.55 14.55 8 14 8M12 12V19H5V12H12M12.78 10H4.22C3.55 10 3 10.55 3 11.22V19.78C3 20.45 3.55 21 4.22 21H12.78C13.45 21 14 20.45 14 19.78V11.22C14 10.55 13.45 10 12.78 10M19.78 3H11.22C10.55 3 10 3.55 10 4.22V8H12V5H19V12H16V14H19.78C20.45 14 21 13.45 21 12.78V4.22C21 3.55 20.45 3 19.78 3M17 8C16.45 8 16 7.55 16 7S16.45 6 17 6C17.55 6 18 6.45 18 7C18 7.55 17.55 8 17 8M17 11C16.45 11 16 10.55 16 10S16.45 9 17 9C17.55 9 18 9.45 18 10C18 10.55 17.55 11 17 11M7 15C6.45 15 6 14.55 6 14S6.45 13 7 13C7.55 13 8 13.45 8 14C8 14.55 7.55 15 7 15M10 18C9.45 18 9 17.55 9 17S9.45 16 10 16C10.55 16 11 16.45 11 17C11 17.55 10.55 18 10 18" /></svg></mdui-icon>
                 </mdui-fab>
             </mdui-card>
 
@@ -87,7 +130,7 @@
                 <p><!----></p>
                 <h6><!----></h6>
                 <mdui-fab>
-                    <mdui-icon-shuffle slot="icon"></mdui-icon-shuffle>
+                    <mdui-icon slot="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 8C13.45 8 13 7.55 13 7S13.45 6 14 6C14.55 6 15 6.45 15 7C15 7.55 14.55 8 14 8M12 12V19H5V12H12M12.78 10H4.22C3.55 10 3 10.55 3 11.22V19.78C3 20.45 3.55 21 4.22 21H12.78C13.45 21 14 20.45 14 19.78V11.22C14 10.55 13.45 10 12.78 10M19.78 3H11.22C10.55 3 10 3.55 10 4.22V8H12V5H19V12H16V14H19.78C20.45 14 21 13.45 21 12.78V4.22C21 3.55 20.45 3 19.78 3M17 8C16.45 8 16 7.55 16 7S16.45 6 17 6C17.55 6 18 6.45 18 7C18 7.55 17.55 8 17 8M17 11C16.45 11 16 10.55 16 10S16.45 9 17 9C17.55 9 18 9.45 18 10C18 10.55 17.55 11 17 11M7 15C6.45 15 6 14.55 6 14S6.45 13 7 13C7.55 13 8 13.45 8 14C8 14.55 7.55 15 7 15M10 18C9.45 18 9 17.55 9 17S9.45 16 10 16C10.55 16 11 16.45 11 17C11 17.55 10.55 18 10 18" /></svg></mdui-icon>
                 </mdui-fab>
             </mdui-card>
 
@@ -178,6 +221,6 @@
 
 
         </div>
-
+
     </body>
 </html>
