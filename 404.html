@@ -25,7 +25,7 @@
             config.links = config.links.map(l => ({ ...l, url: l.url + path }));
             const json = JSON.stringify(config);
             const target = 'https://tooys.pages.dev/builts/selinkt/?' + json;
-            //window.location.href = target;
+            window.location.href = target;
             document.getElementById('fallback').href = target;
         </script>
     </center>
