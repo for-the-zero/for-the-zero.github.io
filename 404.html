@@ -8,6 +8,7 @@
     <center>
         <h1>Redirecting...</h1>
         <hr />
+        <a id="fallback" href="#">Click here if you are not redirected.</a>
         <script>
             const path = window.location.pathname;
             const config = {
@@ -21,14 +22,12 @@
                 ],
                 "tgb": false
             };
-            // append current path to each link
             config.links = config.links.map(l => ({ ...l, url: l.url + path }));
             const json = JSON.stringify(config);
             const target = 'https://tooys.pages.dev/builts/selinkt/?' + json;
+            //window.location.href = target;
             document.getElementById('fallback').href = target;
-            window.location.href = target;
         </script>
-        <a id="fallback" href="#">Click here if you are not redirected.</a>
     </center>
 </body>
 </html>
