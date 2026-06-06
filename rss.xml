@@ -7,6 +7,21 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[将我的个人网站模板大改了一下]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/fenstego2/</link>
+    <guid isPermaLink="false">fenstego2</guid>
+    <description><![CDATA[主页模板大改
+
+自我发布Revealry个人网站模板后，差不多一年的时间内，我一直在更新这个玩意，断断续续，成为我更新最久的一个项目了，来聊聊吧
+
+这次更新是有预谋的，我称之为Plan.VU，因为我觉得当时一些界面设计得太丑了，在这次更新区间（就当作是这篇博客之后的更新吧，也就是3a3a204开始），除去package-lock.json
+，总的git更改行数为+2414 -1124
+
+另外，Plan.VU顺便还把名字改了，因为我觉得之前的那个不好听，之前那个是AI取得，还重名了，我想了一想，就按Alteidos和Velotux那样在拉丁语的基础上生造词了，叫Viderexo，即...]]></description>
+    <pubDate>Sat, 06 Jun 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[DearPyGui笔记]]></title>
     <link>https://ftz.is-a.dev/blog/posts/DearPyGui笔记/</link>
     <guid isPermaLink="false">DearPyGui笔记</guid>
