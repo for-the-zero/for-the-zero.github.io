@@ -456,29 +456,6 @@ Taple在前面已经介绍过了
     <dc:creator>for_the_zero</dc:creator>
   </item>
   <item>
-    <title><![CDATA[Free-LLM-Collection - 一个分享关于免费的大模型API的地方]]></title>
-    <link>https://ftz.is-a.dev/blog/posts/FLC/</link>
-    <guid isPermaLink="false">FLC</guid>
-    <description><![CDATA[这是一个关于免费的大模型api的合集，并精选了一部分模型
-
-
-我会尽可能更新维护这个项目（目前只有我一个人）
-
-
-入选原则是：限制请求速率而不是token > 尽可能多的来源 > 尽可能新且好的模型 > 足够用的请求速率
-
-
-主要是有一定热度的文本模型
-
-
-欢迎大家分享更多api
-
-
-上面是直接抄了README过来的，你还是直接打开看吧]]></description>
-    <pubDate>Sat, 05 Apr 2025 08:00:00 +0800</pubDate>
-    <dc:creator>for_the_zero</dc:creator>
-  </item>
-  <item>
     <title><![CDATA[Quicktools第2.1弹 - 文本展示工具、UP主动态查看工具]]></title>
     <link>https://ftz.is-a.dev/blog/posts/Quicktools2-5/</link>
     <guid isPermaLink="false">Quicktools2-5</guid>
