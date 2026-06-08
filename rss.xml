@@ -7,6 +7,24 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[ZapStartTab - 只是专注于打开网页的简陋新标签页]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/zapstarttab/</link>
+    <guid isPermaLink="false">zapstarttab</guid>
+    <description><![CDATA[ZapStartTab
+
+今天vibe了一个浏览器插件，主要是解决一下我个人使用浏览器的一个痛点——我想要快速打开一些网页，但是我不希望新标签页太复杂，只希望像以前那样用about:blank
+
+以前我用omnibox快速打开网页，在地址栏输入一个字母就够了，但问题是有些网站无论是名字还是url很相似，我还得按方向键选择选择，不太舒服，于是就有了这样一个vibe项目
+
+为什么vibe呢？因为我懒得写
+
+我轮番在OpenCode里面拷打了Deepseek V4 Flash和Mimo V2.5 Pro，把bug修好了，虽然但是无限用量真爽，烧了大概15M token
+
+代码和下...]]></description>
+    <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[将我的个人网站模板大改了一下]]></title>
     <link>https://ftz.is-a.dev/blog/posts/fenstego2/</link>
     <guid isPermaLink="false">fenstego2</guid>
