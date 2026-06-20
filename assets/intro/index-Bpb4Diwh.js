@@ -468,7 +468,7 @@ Fighting in the name of justice
 Composing a rhapsody called falsity
 `,note:`关于英语选必三U5写作任务是写诗于是我从词典笔里面存着的几首Mili的歌的歌词为参考写出了这个玩意（初次尝试）`},{text:`—— 我去你们尖子班的，好努力啊
 —— 对啊，跟奴隶一样
-`,note:null},{text:`感受，是一种错误；表达，是一种罪`,note:null},{text:`所谓的“不理解”，其实是在没有相似的情境下感同身受，理解其动机罢了`,note:null},{text:`他只是想逃往一个容得下他的地方罢了`,note:null},{text:`如同一个人群中的刽子手，一旦被见到就会见我千刀万剐`,note:null},{text:`Tips: 这些都是在不同时期不同状态写的，可能有些不太准确的内容`,note:null},{text:`原罪的罪源回味原罪带来不幸`,note:null}],sentence_wait:`(()=>{
+`,note:null},{text:`感受，是一种错误；表达，是一种罪`,note:null},{text:`所谓的“不理解”，其实是在没有相似的情境下感同身受，理解其动机罢了`,note:null},{text:`他只是想逃往一个容得下他的地方罢了`,note:null},{text:`如同一个人群中的刽子手，一旦被见到就会见我千刀万剐`,note:null},{text:`Tips: 这些都是在不同时期不同状态写的，可能有些不太准确的内容`,note:null},{text:`原罪的罪源会为原罪带来不幸`,note:null},{text:`To be the one I want to be. For the purity without O-sin. Ensconce the massive errors parasitizing me.`,note:null}],sentence_wait:`(()=>{
   let t = Math.random() * 3000;
   if(t> (3000 - 0.1330333 - 1.14514 - 1.919810 - 0.721)){
     setTimeout(()=>{
@@ -489,7 +489,7 @@ Composing a rhapsody called falsity
   console.log(t);
   return t;
 })()
-`,lifelog:{url:`https://lifelog.forthezero.dpdns.org/get`,phone:{alias:{"com.google.android.googlequicksearchbox":`Google Gemini`},when_no_records:`最近没在用手机，不知道在干嘛`},laptop:{alias:{"explorer.exe":`explorer`,"omofun.exe":`omofun`},when_no_records:`最近没在用电脑，不知道在干嘛`}}},en:{name:`for_the_zero`,aka:`a.k.a. ftz`,identity:`Student / Hobbyist / Tech Enthusiast / ……`,bio:`(idk what to write here)`,sex:`Male`,birth:`09/04/15`,hobby:`Programming, usually browsing videos and play video games, etc.`,location:`Chine`,more:`...`,detail_intros:[`Sometimes serious, sometimes absolutely wild`,`Started with Scratch in elementary school, then moved on to Python and JavaScript in middle school, entirely self-taught`,`Almost all programs I've developed can be found on GitHub`,`Love trying out new things`,`Back in the day, I used Pandora’s ChatGPT-3.5 and a mirror site’s GPT-4.
+`,lifelog:{url:`https://lifelog.forthezero.dpdns.org/get`,phone:{alias:{"com.google.android.googlequicksearchbox":`Google Gemini`},when_no_records:`最近没在用手机，不知道在干嘛`},laptop:{alias:{"explorer.exe":`explorer`,"omofun.exe":`omofun`},when_no_records:`最近没在用电脑，不知道在干嘛`}}},en:{name:`for_the_zero`,aka:`a.k.a. ftz`,identity:`Student / Hobbyist / Tech Enthusiast / ……`,bio:`Everywhere of Inexistence`,sex:`Male`,birth:`09/04/15`,hobby:`Programming, usually browsing videos and play video games, etc.`,location:`China`,more:`...`,detail_intros:[`Sometimes serious, sometimes absolutely wild`,`Started with Scratch in elementary school, then moved on to Python and JavaScript in middle school, entirely self-taught`,`Almost all programs I've developed can be found on GitHub`,`Love trying out new things`,`Back in the day, I used Pandora’s ChatGPT-3.5 and a mirror site’s GPT-4.
 At the same time, I was also using Qwen1 (as an early access waitlist user, back when it still used Alibaba Cloud accounts) and GLM3—so I’ve actually been into LLMs quite early on.
 Before that, I was using the beta version of GitHub Copilot, which also required a waitlist.
 However, I don’t currently have plans to build my own models—I lack the money, hardware, and technical expertise.
