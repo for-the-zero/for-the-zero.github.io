@@ -7,6 +7,28 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[WebTooys第4弹更新 —— AI知识图谱Oheya、连接选择器Selinkt、长图拼接、LessChat、生成终末地配方AI提示词]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/webtooys4/</link>
+    <guid isPermaLink="false">webtooys4</guid>
+    <description><![CDATA[![](https://ftz.is-a.dev/blog/posts/img/screenshot_1782573725882.png)
+
+WebTooys 第四弹更新
+
+可通过Netlify/Vercel/Cloudflare Pages
+
+我觉得我该改改我写博客的时候重要的东西写后面的习惯了，感觉不太有人会看到后面吧，该学学倒金字塔结构，这次就不按时间顺序写了，废话少说
+
+这次更新了5个tooys，其中主力项目是Oheya
+
+Oheya
+
+自然，也是有Github的，但是视频不着急，想要搞成杂谈DLC杂谈2一部分
+
+这次用的是vue（PrimeVue+Tail...]]></description>
+    <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[ZapStartTab - 只是专注于打开网页的简陋新标签页]]></title>
     <link>https://ftz.is-a.dev/blog/posts/zapstarttab/</link>
     <guid isPermaLink="false">zapstarttab</guid>
