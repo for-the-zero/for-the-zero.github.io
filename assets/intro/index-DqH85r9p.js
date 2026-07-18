@@ -468,7 +468,7 @@ Fighting in the name of justice
 Composing a rhapsody called falsity
 `,note:`关于英语选必三U5写作任务是写诗于是我从词典笔里面存着的几首Mili的歌的歌词为参考写出了这个玩意（初次尝试）`},{text:`—— 我去你们尖子班的，好努力啊
 —— 对啊，跟奴隶一样
-`,note:null},{text:`感受，是一种错误；表达，是一种罪`,note:null},{text:`所谓的“不理解”，其实是在没有相似的情境下感同身受，理解其动机罢了`,note:null},{text:`他只是想逃往一个容得下他的地方罢了`,note:null},{text:`如同一个人群中的刽子手，一旦被见到就会见我千刀万剐`,note:null},{text:`Tips: 这些都是在不同时期不同状态写的，可能有些不太准确的内容`,note:null},{text:`原罪的罪源会为原罪带来不幸`,note:null},{text:`To be the one I want to be. For the purity without O-sin. Ensconce the massive errors parasitizing me.`,note:null},{text:`质性自然，非矫厉所得。饥冻虽切，违己交病。`,note:`摘抄自《归去来兮辞》`},{text:`既自以心为形役，奚惆怅而独悲？悟已往之不谏，知来者之可追。实迷途其未远，觉今是而昨非。`,note:`摘抄自《归去来兮辞》`},{text:`曷不委心任去留？胡为乎遑遑欲何之？`,note:`摘抄自《归去来兮辞》`},{text:`当哲学不再存在，即人们不再痛苦，发展完全停滞，人类的“生命”也名存实亡了`,note:null}],sentence_wait:`(()=>{
+`,note:null},{text:`感受，是一种错误；表达，是一种罪`,note:null},{text:`所谓的“不理解”，其实是在没有相似的情境下感同身受，理解其动机罢了`,note:null},{text:`他只是想逃往一个容得下他的地方罢了`,note:null},{text:`如同一个人群中的刽子手，一旦被见到就会见我千刀万剐`,note:null},{text:`Tips: 这些都是在不同时期不同状态写的，可能有些不太准确的内容`,note:null},{text:`原罪的罪源会为原罪带来不幸`,note:null},{text:`To be the one I want to be. For the purity without O-sin. Ensconce the massive errors parasitizing me.`,note:null},{text:`质性自然，非矫厉所得。饥冻虽切，违己交病。`,note:`摘抄自《归去来兮辞》`},{text:`既自以心为形役，奚惆怅而独悲？悟已往之不谏，知来者之可追。实迷途其未远，觉今是而昨非。`,note:`摘抄自《归去来兮辞》`},{text:`曷不委心任去留？胡为乎遑遑欲何之？`,note:`摘抄自《归去来兮辞》`},{text:`当哲学不再存在，即人们不再痛苦，发展完全停滞，人类的“生命”也名存实亡了`,note:null},{text:`现实啊，总是给足了希望，靠近后，却是失望`,note:null},{text:`我曾无数次推演过未来的可能性，从……到……，从……到……，从……到……，从……到……，可最后，现实给出的却是一个意料之外的而又最不愿看到的可能性`,note:null}],sentence_wait:`(()=>{
   let t = Math.random() * 3000;
   if(t> (3000 - 0.1330333 - 1.14514 - 1.919810 - 0.721)){
     setTimeout(()=>{
