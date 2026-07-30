@@ -1,0 +1,31 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" fill="none">
+    <defs>
+        <linearGradient id="orbitGrad" x1="6" y1="22" x2="26" y2="10" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#0059c7" />
+            <stop offset="50%" stop-color="#38bdf8" />
+            <stop offset="100%" stop-color="#0059c7" />
+        </linearGradient>
+    </defs>
+    <!-- 1. 背景空间景深虚线 (纯色 #0059c7 + 透明度) -->
+    <ellipse cx="16" cy="16" rx="12" ry="4.8"
+        transform="rotate(-25 16 16)"
+        stroke="#0059c7"
+        stroke-width="1"
+        stroke-dasharray="3 3"
+        opacity="0.35" />
+    <!-- 2. 中央字母 O Ring (纯色 #0059c7，无遮罩，完整光滑圆环) -->
+    <circle cx="16" cy="16" r="5.2"
+        stroke="#0059c7"
+        stroke-width="2" />
+    <!-- 3. 中央奇点 (纯色 #0059c7) -->
+    <circle cx="16" cy="16" r="1.2" fill="#0059c7" opacity="0.25" />
+    <!-- 4. 前景主轨道弧线 (唯一使用渐变 url(#orbitGrad) 的元素) -->
+    <!-- 位于最上层，自然覆盖在 O 的前侧，形成真实的 3D 穿过感 -->
+    <ellipse cx="16" cy="16" rx="11.5" ry="4.8"
+        transform="rotate(-25 16 16)"
+        stroke="url(#orbitGrad)"
+        stroke-width="1.5"
+        stroke-linecap="round"
+        stroke-dasharray="26 28"
+        stroke-dashoffset="-5" />
+</svg>
