@@ -7,6 +7,30 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[浅学一下C#，顺便做了几个小工具]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/learncs/</link>
+    <guid isPermaLink="false">learncs</guid>
+    <description><![CDATA[最近这段时间跑去简单尝试了一下C#，主要是因为我认为某些东西如果要用js去写，那旧必须运行个V8，性能上是个问题，如果换一种语言会好很多，于是综合考虑之下，选了C#，因为这个也是跨平台的
+
+先看着菜鸟教程看了一会，好想学进去了，好像懂了，那就开始练手吧
+
+~~然后发现大脑一片空白~~
+
+于是乎便使用AI的力量，我并没有直接vibe，而是让它一步一步教我：
+
+``text
+我是一个C#初学者，接下来你要辅助我开发一个程序，不允许帮我写而是教我怎么写，你要一行一行代码给出来，不能放上长长一段代码
+`
+
+然后……
+
+好像什么也没学到！（大喜悲
+
+我不知道啊，可能是AI...]]></description>
+    <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[WebTooys第4弹更新 —— AI知识图谱Oheya、连接选择器Selinkt、长图拼接、LessChat、生成终末地配方AI提示词]]></title>
     <link>https://ftz.is-a.dev/blog/posts/webtooys4/</link>
     <guid isPermaLink="false">webtooys4</guid>
