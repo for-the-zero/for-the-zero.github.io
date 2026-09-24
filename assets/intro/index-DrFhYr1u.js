@@ -1,4 +1,4 @@
-import{a as svgTag,c as i,d as __toESM,l as __decorate,n as init_i18n,o as style,r as require_jquery,s as t,t as get_lang}from"../global-DF9xzp0X.js";import"../modulepreload-polyfill-CXK8biUa.js";import"../collapse-item-QkL2O69W.js";var import_jquery=__toESM(require_jquery(),1),IconHistory=class extends i{render(){return svgTag(`<path d="M13 3a9 9 0 0 0-9 9H1l3.89 3.89.07.14L9 12H6c0-3.87 3.13-7 7-7s7 3.13 7 7-3.13 7-7 7c-1.93 0-3.68-.79-4.94-2.06l-1.42 1.42A8.954 8.954 0 0 0 13 21a9 9 0 0 0 0-18zm-1 5v5l4.28 2.54.72-1.21-3.5-2.08V8H12z"/>`)}};IconHistory.styles=style,IconHistory=__decorate([t(`mdui-icon-history`)],IconHistory);var IconBattery_0Bar=class extends i{render(){return svgTag(`<path d="M17 5v16c0 .55-.45 1-1 1H8c-.55 0-1-.45-1-1V5c0-.55.45-1 1-1h2V2h4v2h2c.55 0 1 .45 1 1zm-2 1H9v14h6V6z"/>`)}};IconBattery_0Bar.styles=style,IconBattery_0Bar=__decorate([t(`mdui-icon-battery-0-bar`)],IconBattery_0Bar);var IconBatteryChargingFull=class extends i{render(){return svgTag(`<path d="M15.67 4H14V2h-4v2H8.33C7.6 4 7 4.6 7 5.33v15.33C7 21.4 7.6 22 8.33 22h7.33c.74 0 1.34-.6 1.34-1.33V5.33C17 4.6 16.4 4 15.67 4zM11 20v-5.5H9L13 7v5.5h2L11 20z"/>`)}};IconBatteryChargingFull.styles=style,IconBatteryChargingFull=__decorate([t(`mdui-icon-battery-charging-full`)],IconBatteryChargingFull);var IconMemory=class extends i{render(){return svgTag(`<path d="M15 9H9v6h6V9zm-2 4h-2v-2h2v2zm8-2V9h-2V7c0-1.1-.9-2-2-2h-2V3h-2v2h-2V3H9v2H7c-1.1 0-2 .9-2 2v2H3v2h2v2H3v2h2v2c0 1.1.9 2 2 2h2v2h2v-2h2v2h2v-2h2c1.1 0 2-.9 2-2v-2h2v-2h-2v-2h2zm-4 6H7V7h10v10z"/>`)}};IconMemory.styles=style,IconMemory=__decorate([t(`mdui-icon-memory`)],IconMemory);var IconUpdate=class extends i{render(){return svgTag(`<path d="M21 10.12h-6.78l2.74-2.82c-2.73-2.7-7.15-2.8-9.88-.1-2.73 2.71-2.73 7.08 0 9.79s7.15 2.71 9.88 0C18.32 15.65 19 14.08 19 12.1h2c0 1.98-.88 4.55-2.64 6.29-3.51 3.48-9.21 3.48-12.72 0-3.5-3.47-3.53-9.11-.02-12.58s9.14-3.47 12.65 0L21 3v7.12zM12.5 8v4.25l3.5 2.08-.72 1.21L11 13V8h1.5z"/>`)}};IconUpdate.styles=style,IconUpdate=__decorate([t(`mdui-icon-update`)],IconUpdate);var IconLocationOn_Outlined=class extends i{render(){return svgTag(`<path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zM7 9c0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.88-2.88 7.19-5 9.88C9.92 16.21 7 11.85 7 9z"/><circle cx="12" cy="9" r="2.5"/>`)}};IconLocationOn_Outlined.styles=style,IconLocationOn_Outlined=__decorate([t(`mdui-icon-location-on--outlined`)],IconLocationOn_Outlined);var IconWc=class extends i{render(){return svgTag(`<path d="M5.5 22v-7.5H4V9c0-1.1.9-2 2-2h3c1.1 0 2 .9 2 2v5.5H9.5V22h-4zM18 22v-6h3l-2.54-7.63A2.01 2.01 0 0 0 16.56 7h-.12a2 2 0 0 0-1.9 1.37L12 16h3v6h3zM7.5 6c1.11 0 2-.89 2-2s-.89-2-2-2-2 .89-2 2 .89 2 2 2zm9 0c1.11 0 2-.89 2-2s-.89-2-2-2-2 .89-2 2 .89 2 2 2z"/>`)}};IconWc.styles=style,IconWc=__decorate([t(`mdui-icon-wc`)],IconWc);var IconCake_Outlined=class extends i{render(){return svgTag(`<path d="M12 6a2 2 0 0 0 2-2c0-.38-.1-.73-.29-1.03L12 0l-1.71 2.97c-.19.3-.29.65-.29 1.03 0 1.1.9 2 2 2zm6 3h-5V7h-2v2H6c-1.66 0-3 1.34-3 3v9c0 .55.45 1 1 1h16c.55 0 1-.45 1-1v-9c0-1.66-1.34-3-3-3zm1 11H5v-3c.9-.01 1.76-.37 2.4-1.01l1.09-1.07 1.07 1.07c1.31 1.31 3.59 1.3 4.89 0l1.08-1.07 1.07 1.07c.64.64 1.5 1 2.4 1.01v3zm0-4.5c-.51-.01-.99-.2-1.35-.57l-2.13-2.13-2.14 2.13c-.74.74-2.03.74-2.77 0L8.48 12.8l-2.14 2.13c-.35.36-.83.56-1.34.57V12c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v3.5z"/>`)}};IconCake_Outlined.styles=style,IconCake_Outlined=__decorate([t(`mdui-icon-cake--outlined`)],IconCake_Outlined);var IconFavoriteBorder=class extends i{render(){return svgTag(`<path d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"/>`)}};IconFavoriteBorder.styles=style,IconFavoriteBorder=__decorate([t(`mdui-icon-favorite-border`)],IconFavoriteBorder);var IconMoreHoriz=class extends i{render(){return svgTag(`<path d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"/>`)}};IconMoreHoriz.styles=style,IconMoreHoriz=__decorate([t(`mdui-icon-more-horiz`)],IconMoreHoriz);var IconMale=class extends i{render(){return svgTag(`<path d="M9.5 11c1.93 0 3.5 1.57 3.5 3.5S11.43 18 9.5 18 6 16.43 6 14.5 7.57 11 9.5 11zm0-2C6.46 9 4 11.46 4 14.5S6.46 20 9.5 20s5.5-2.46 5.5-5.5c0-1.16-.36-2.23-.97-3.12L18 7.42V10h2V4h-6v2h2.58l-3.97 3.97C11.73 9.36 10.66 9 9.5 9z"/>`)}};IconMale.styles=style,IconMale=__decorate([t(`mdui-icon-male`)],IconMale);var IconFemale=class extends i{render(){return svgTag(`<path d="M17.5 9.5C17.5 6.46 15.04 4 12 4S6.5 6.46 6.5 9.5c0 2.7 1.94 4.93 4.5 5.4V17H9v2h2v2h2v-2h2v-2h-2v-2.1c2.56-.47 4.5-2.7 4.5-5.4zm-9 0C8.5 7.57 10.07 6 12 6s3.5 1.57 3.5 3.5S13.93 13 12 13s-3.5-1.57-3.5-3.5z"/>`)}};IconFemale.styles=style,IconFemale=__decorate([t(`mdui-icon-female`)],IconFemale);var data$1={"zh-CN":{translations:[{selector:`mdui-top-app-bar-title`,target:`inner-html`,text:`介绍`},{selector:`.intros h3`,target:`inner-html`,text:`更多介绍`},{selector:`.sens h3`,target:`inner-html`,text:`小句段(20%概率)`},{selector:`.lifelog-title > span:first-child`,target:`inner-html`,text:`我在干什么`},{selector:`.lifelog-card-laptop > h3`,target:`inner-html`,text:`电脑`},{selector:`.lifelog-card-phone > h3`,target:`inner-html`,text:`手机`},{selector:`.lifelog-card-laptop > mdui-collapse > mdui-collapse-item > mdui-list-item > span`,target:`inner-html`,text:`历史数据`},{selector:`.lifelog-card-phone > mdui-collapse > mdui-collapse-item > mdui-list-item > span`,target:`inner-html`,text:`历史数据`},{selector:`.lifelog-card-laptop-table > thead > tr > th:first-child`,target:`inner-html`,text:`时间`},{selector:`.lifelog-card-laptop-table > thead > tr > th:nth-child(2)`,target:`inner-html`,text:`在用的那个窗口的标题`},{selector:`.lifelog-card-laptop-table > thead > tr > th:last-child`,target:`inner-html`,text:`内存使用情况`},{selector:`.lifelog-card-phone-table > thead > tr > th:first-child`,target:`inner-html`,text:`时间`},{selector:`.lifelog-card-phone-table > thead > tr > th:nth-child(2)`,target:`inner-html`,text:`在这个软件里面`},{selector:`.lifelog-card-phone-table > thead > tr > th:last-child`,target:`inner-html`,text:`电量`},{selector:`mdui-icon-wc`,target:`replace`,text:`<mdui-icon-male style="color: rgb(var(--mdui-color-outline));"></mdui-icon-male>`}],_other:{title:`介绍 | for_the_zero的小站`}},en:{translations:[{selector:`mdui-top-app-bar-title`,target:`inner-html`,text:`Introduction`},{selector:`.intros h3`,target:`inner-html`,text:`Trai.t.〇`},{selector:`.sens h3`,target:`inner-html`,text:`Jo.t.〇`},{selector:`.lifelog-title > span:first-child`,target:`inner-html`,text:`What I'm Doing`},{selector:`.lifelog-card-laptop > h3`,target:`inner-html`,text:`Laptop`},{selector:`.lifelog-card-phone > h3`,target:`inner-html`,text:`Mobile Phone`},{selector:`.lifelog-card-laptop > mdui-collapse > mdui-collapse-item > mdui-list-item > span`,target:`inner-html`,text:`Historical Data`},{selector:`.lifelog-card-phone > mdui-collapse > mdui-collapse-item > mdui-list-item > span`,target:`inner-html`,text:`Historical Data`},{selector:`.lifelog-card-laptop-table > thead > tr > th:first-child`,target:`inner-html`,text:`Time`},{selector:`.lifelog-card-laptop-table > thead > tr > th:nth-child(2)`,target:`inner-html`,text:`Window Title In Use`},{selector:`.lifelog-card-laptop-table > thead > tr > th:last-child`,target:`inner-html`,text:`Memory Usage`},{selector:`.lifelog-card-phone-table > thead > tr > th:first-child`,target:`inner-html`,text:`Time`},{selector:`.lifelog-card-phone-table > thead > tr > th:nth-child(2)`,target:`inner-html`,text:`Application In Use`},{selector:`.lifelog-card-phone-table > thead > tr > th:last-child`,target:`inner-html`,text:`Battery`},{selector:`mdui-icon-wc`,target:`replace`,text:`<mdui-icon-male style="color: rgb(var(--mdui-color-outline));"></mdui-icon-male>`}],_other:{title:`Intro | for_the_zero's Site`}}},data={"zh-CN":{name:`for_the_zero`,aka:`或者叫 ftz | 零酱 等`,identity:`学生 / 业余开发者 / 技术爱好者 / ……`,bio:`想要成为一个<span style="font-size: 5px">可爱的、</span>有趣的、厉害的、快乐的、善良的、……能被你记住的人<br><span style="font-size: 12px">——成为自己想要的样子吧</span>`,sex:`在现实中是男孩子`,birth:`09/04/15`,hobby:`喜欢编程，平常一般会宅在家刷视频、玩游戏等`,location:`Everywhere <ruby>of<rt>IP属地：广东</rt></ruby> Inexistence`,more:`如果不爱，请别伤害`,detail_intros:[`“有时候正经，有时候很颠”`,`小学接触Scratch，初中接触Python和JavaScript，靠自学学过来的`,`开发的程序几乎所有都可以在Github中找到`,`喜欢尝试新鲜事物`,`想当初，我使用过Pandora的ChatGPT-3.5和一个镜像站的GPT-4
+import{a as svgTag,c as i,d as __toESM,l as __decorate,n as init_i18n,o as style,r as require_jquery,s as t,t as get_lang}from"../global-DF9xzp0X.js";import"../modulepreload-polyfill-CXK8biUa.js";import"../collapse-item-QkL2O69W.js";var import_jquery=__toESM(require_jquery(),1),IconHistory=class extends i{render(){return svgTag(`<path d="M13 3a9 9 0 0 0-9 9H1l3.89 3.89.07.14L9 12H6c0-3.87 3.13-7 7-7s7 3.13 7 7-3.13 7-7 7c-1.93 0-3.68-.79-4.94-2.06l-1.42 1.42A8.954 8.954 0 0 0 13 21a9 9 0 0 0 0-18zm-1 5v5l4.28 2.54.72-1.21-3.5-2.08V8H12z"/>`)}};IconHistory.styles=style,IconHistory=__decorate([t(`mdui-icon-history`)],IconHistory);var IconBattery_0Bar=class extends i{render(){return svgTag(`<path d="M17 5v16c0 .55-.45 1-1 1H8c-.55 0-1-.45-1-1V5c0-.55.45-1 1-1h2V2h4v2h2c.55 0 1 .45 1 1zm-2 1H9v14h6V6z"/>`)}};IconBattery_0Bar.styles=style,IconBattery_0Bar=__decorate([t(`mdui-icon-battery-0-bar`)],IconBattery_0Bar);var IconBatteryChargingFull=class extends i{render(){return svgTag(`<path d="M15.67 4H14V2h-4v2H8.33C7.6 4 7 4.6 7 5.33v15.33C7 21.4 7.6 22 8.33 22h7.33c.74 0 1.34-.6 1.34-1.33V5.33C17 4.6 16.4 4 15.67 4zM11 20v-5.5H9L13 7v5.5h2L11 20z"/>`)}};IconBatteryChargingFull.styles=style,IconBatteryChargingFull=__decorate([t(`mdui-icon-battery-charging-full`)],IconBatteryChargingFull);var IconMemory=class extends i{render(){return svgTag(`<path d="M15 9H9v6h6V9zm-2 4h-2v-2h2v2zm8-2V9h-2V7c0-1.1-.9-2-2-2h-2V3h-2v2h-2V3H9v2H7c-1.1 0-2 .9-2 2v2H3v2h2v2H3v2h2v2c0 1.1.9 2 2 2h2v2h2v-2h2v2h2v-2h2c1.1 0 2-.9 2-2v-2h2v-2h-2v-2h2zm-4 6H7V7h10v10z"/>`)}};IconMemory.styles=style,IconMemory=__decorate([t(`mdui-icon-memory`)],IconMemory);var IconUpdate=class extends i{render(){return svgTag(`<path d="M21 10.12h-6.78l2.74-2.82c-2.73-2.7-7.15-2.8-9.88-.1-2.73 2.71-2.73 7.08 0 9.79s7.15 2.71 9.88 0C18.32 15.65 19 14.08 19 12.1h2c0 1.98-.88 4.55-2.64 6.29-3.51 3.48-9.21 3.48-12.72 0-3.5-3.47-3.53-9.11-.02-12.58s9.14-3.47 12.65 0L21 3v7.12zM12.5 8v4.25l3.5 2.08-.72 1.21L11 13V8h1.5z"/>`)}};IconUpdate.styles=style,IconUpdate=__decorate([t(`mdui-icon-update`)],IconUpdate);var IconLocationOn_Outlined=class extends i{render(){return svgTag(`<path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zM7 9c0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.88-2.88 7.19-5 9.88C9.92 16.21 7 11.85 7 9z"/><circle cx="12" cy="9" r="2.5"/>`)}};IconLocationOn_Outlined.styles=style,IconLocationOn_Outlined=__decorate([t(`mdui-icon-location-on--outlined`)],IconLocationOn_Outlined);var IconWc=class extends i{render(){return svgTag(`<path d="M5.5 22v-7.5H4V9c0-1.1.9-2 2-2h3c1.1 0 2 .9 2 2v5.5H9.5V22h-4zM18 22v-6h3l-2.54-7.63A2.01 2.01 0 0 0 16.56 7h-.12a2 2 0 0 0-1.9 1.37L12 16h3v6h3zM7.5 6c1.11 0 2-.89 2-2s-.89-2-2-2-2 .89-2 2 .89 2 2 2zm9 0c1.11 0 2-.89 2-2s-.89-2-2-2-2 .89-2 2 .89 2 2 2z"/>`)}};IconWc.styles=style,IconWc=__decorate([t(`mdui-icon-wc`)],IconWc);var IconCake_Outlined=class extends i{render(){return svgTag(`<path d="M12 6a2 2 0 0 0 2-2c0-.38-.1-.73-.29-1.03L12 0l-1.71 2.97c-.19.3-.29.65-.29 1.03 0 1.1.9 2 2 2zm6 3h-5V7h-2v2H6c-1.66 0-3 1.34-3 3v9c0 .55.45 1 1 1h16c.55 0 1-.45 1-1v-9c0-1.66-1.34-3-3-3zm1 11H5v-3c.9-.01 1.76-.37 2.4-1.01l1.09-1.07 1.07 1.07c1.31 1.31 3.59 1.3 4.89 0l1.08-1.07 1.07 1.07c.64.64 1.5 1 2.4 1.01v3zm0-4.5c-.51-.01-.99-.2-1.35-.57l-2.13-2.13-2.14 2.13c-.74.74-2.03.74-2.77 0L8.48 12.8l-2.14 2.13c-.35.36-.83.56-1.34.57V12c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v3.5z"/>`)}};IconCake_Outlined.styles=style,IconCake_Outlined=__decorate([t(`mdui-icon-cake--outlined`)],IconCake_Outlined);var IconFavoriteBorder=class extends i{render(){return svgTag(`<path d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"/>`)}};IconFavoriteBorder.styles=style,IconFavoriteBorder=__decorate([t(`mdui-icon-favorite-border`)],IconFavoriteBorder);var IconMoreHoriz=class extends i{render(){return svgTag(`<path d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"/>`)}};IconMoreHoriz.styles=style,IconMoreHoriz=__decorate([t(`mdui-icon-more-horiz`)],IconMoreHoriz);var IconMale=class extends i{render(){return svgTag(`<path d="M9.5 11c1.93 0 3.5 1.57 3.5 3.5S11.43 18 9.5 18 6 16.43 6 14.5 7.57 11 9.5 11zm0-2C6.46 9 4 11.46 4 14.5S6.46 20 9.5 20s5.5-2.46 5.5-5.5c0-1.16-.36-2.23-.97-3.12L18 7.42V10h2V4h-6v2h2.58l-3.97 3.97C11.73 9.36 10.66 9 9.5 9z"/>`)}};IconMale.styles=style,IconMale=__decorate([t(`mdui-icon-male`)],IconMale);var IconFemale=class extends i{render(){return svgTag(`<path d="M17.5 9.5C17.5 6.46 15.04 4 12 4S6.5 6.46 6.5 9.5c0 2.7 1.94 4.93 4.5 5.4V17H9v2h2v2h2v-2h2v-2h-2v-2.1c2.56-.47 4.5-2.7 4.5-5.4zm-9 0C8.5 7.57 10.07 6 12 6s3.5 1.57 3.5 3.5S13.93 13 12 13s-3.5-1.57-3.5-3.5z"/>`)}};IconFemale.styles=style,IconFemale=__decorate([t(`mdui-icon-female`)],IconFemale);var data$1={"zh-CN":{translations:[{selector:`mdui-top-app-bar-title`,target:`inner-html`,text:`介绍`},{selector:`.intros h3`,target:`inner-html`,text:`更多介绍`},{selector:`.sens h3`,target:`inner-html`,text:`小句段(30%概率)`},{selector:`.lifelog-title > span:first-child`,target:`inner-html`,text:`我在干什么`},{selector:`.lifelog-card-laptop > h3`,target:`inner-html`,text:`电脑`},{selector:`.lifelog-card-phone > h3`,target:`inner-html`,text:`手机`},{selector:`.lifelog-card-laptop > mdui-collapse > mdui-collapse-item > mdui-list-item > span`,target:`inner-html`,text:`历史数据`},{selector:`.lifelog-card-phone > mdui-collapse > mdui-collapse-item > mdui-list-item > span`,target:`inner-html`,text:`历史数据`},{selector:`.lifelog-card-laptop-table > thead > tr > th:first-child`,target:`inner-html`,text:`时间`},{selector:`.lifelog-card-laptop-table > thead > tr > th:nth-child(2)`,target:`inner-html`,text:`在用的那个窗口的标题`},{selector:`.lifelog-card-laptop-table > thead > tr > th:last-child`,target:`inner-html`,text:`内存使用情况`},{selector:`.lifelog-card-phone-table > thead > tr > th:first-child`,target:`inner-html`,text:`时间`},{selector:`.lifelog-card-phone-table > thead > tr > th:nth-child(2)`,target:`inner-html`,text:`在这个软件里面`},{selector:`.lifelog-card-phone-table > thead > tr > th:last-child`,target:`inner-html`,text:`电量`},{selector:`mdui-icon-wc`,target:`replace`,text:`<mdui-icon-male style="color: rgb(var(--mdui-color-outline));"></mdui-icon-male>`}],_other:{title:`介绍 | for_the_zero的小站`}},en:{translations:[{selector:`mdui-top-app-bar-title`,target:`inner-html`,text:`Introduction`},{selector:`.intros h3`,target:`inner-html`,text:`Intro`},{selector:`.sens h3`,target:`inner-html`,text:`Sentences`},{selector:`.lifelog-title > span:first-child`,target:`inner-html`,text:`What I'm Doing`},{selector:`.lifelog-card-laptop > h3`,target:`inner-html`,text:`Laptop`},{selector:`.lifelog-card-phone > h3`,target:`inner-html`,text:`Mobile Phone`},{selector:`.lifelog-card-laptop > mdui-collapse > mdui-collapse-item > mdui-list-item > span`,target:`inner-html`,text:`Historical Data`},{selector:`.lifelog-card-phone > mdui-collapse > mdui-collapse-item > mdui-list-item > span`,target:`inner-html`,text:`Historical Data`},{selector:`.lifelog-card-laptop-table > thead > tr > th:first-child`,target:`inner-html`,text:`Time`},{selector:`.lifelog-card-laptop-table > thead > tr > th:nth-child(2)`,target:`inner-html`,text:`Window Title In Use`},{selector:`.lifelog-card-laptop-table > thead > tr > th:last-child`,target:`inner-html`,text:`Memory Usage`},{selector:`.lifelog-card-phone-table > thead > tr > th:first-child`,target:`inner-html`,text:`Time`},{selector:`.lifelog-card-phone-table > thead > tr > th:nth-child(2)`,target:`inner-html`,text:`Application In Use`},{selector:`.lifelog-card-phone-table > thead > tr > th:last-child`,target:`inner-html`,text:`Battery`},{selector:`mdui-icon-wc`,target:`replace`,text:`<mdui-icon-male style="color: rgb(var(--mdui-color-outline));"></mdui-icon-male>`}],_other:{title:`Intro | for_the_zero's Site`}}},data={"zh-CN":{name:`for_the_zero`,aka:`或者叫 ftz | 零酱 等`,identity:`学生 / 业余开发者 / 技术爱好者 / ……`,bio:`想要成为一个<span style="font-size: 5px">可爱的、</span>有趣的、厉害的、快乐的、善良的、……能被你记住的人<br><span style="font-size: 12px">——成为自己想要的样子吧</span>`,sex:`在现实中是男孩子`,birth:`09/04/15`,hobby:`喜欢编程，平常一般会宅在家刷视频、玩游戏等`,location:`Everywhere <ruby>of<rt>IP属地：广东</rt></ruby> Inexistence`,more:`如果不爱，请别伤害`,detail_intros:[`“有时候正经，有时候很颠”`,`小学接触Scratch，初中接触Python和JavaScript，靠自学学过来的`,`开发的程序几乎所有都可以在Github中找到`,`喜欢尝试新鲜事物`,`想当初，我使用过Pandora的ChatGPT-3.5和一个镜像站的GPT-4
 同时还用Qwen1（内测waitlist用户，当时还是阿里云账号登陆的）和GLM3，可以说是很早就开始往LLM了
 在这之前还用着内测版的Github Copilot，也需要waitlist
 不过自己造的话还没那个打算，因为自己没钱没设备没技术
@@ -27,7 +27,7 @@ import{a as svgTag,c as i,d as __toESM,l as __decorate,n as init_i18n,o as style
 盼望着在这个世界逐渐变样的时候，仍有人能从互联网废墟中找到我
 循着我留下的小小线索，将我的碎片串联起来
 发现在那不知多久前，还有一个人，在互联网上留下了他自己……
-`,`经常提前完成作业，让后面负担没那么重`,`现货陈自己想要的样子`,`游荡于互联网的奇怪猫娘`,`吟游诗人（？`,`腰是敏感部位，不要乱戳 (* ￣︿￣)`,`Tips: 这些都是在不同时期不同状态写的，可能有些不太准确的内容`,`有时候会思考一些哲学的东西，但其实并没有多少哲学造诣`,`继承了让头发又粗又硬的神秘基因，理发师剪了都说好`,`这是一只用爱充电的猫，可以用自己的热爱自己发电，也可以用高于100%的效率从别人那里充电`,`这是一个很任性的猫娘`],intros_wait:`(()=>{let t = Math.random() * 750;console.log(t);return t;})()`,hitokoto:.8,sentences:[{text:`泥潭之中，越是挣扎越是深，不挣扎也会慢慢陷入……`,note:`初中毕业那段时间写的`},{text:`不同的经历，也能分等级出来？`,note:`初中毕业那段时间写的`},{text:`不比别人好，追求却一样……`,note:`初中毕业那段时间写的`},{text:`眼睁睁地看着，沉默不语`,note:`初中毕业那段时间写的`},{text:`本是一样的人却有着隔膜`,note:`初中毕业那段时间写的`},{text:`不知说什么，不知该说什么，却想说什么`,note:`初中毕业那段时间写的`},{text:`同一场悲剧，大家的反应却不一样`,note:`初中毕业那段时间写的`},{text:`茫茫苍生，何晓苦楚`,note:`初中毕业那段时间写的`},{text:`黑暗的路并不平，却没人告诉他如何离开`,note:`初中毕业那段时间写的`},{text:`愁苦涌上心头，却无能为力`,note:`初中毕业那段时间写的`},{text:`指指点点，习惯就好，在意了，还是自己伤心`,note:`初中毕业那段时间写的`},{text:`对一边，包庇宽容开放，而另一边……`,note:`初中毕业那段时间写的`},{text:`踩他人的时候，想想是谁的错，或者他是不是习惯了`,note:`初中毕业那段时间写的`},{text:`有人被捧起，脚下还有别人`,note:`初中毕业那段时间写的`},{text:`单调的世界只能用内心填充`,note:null},{text:`能不能两个人安静地坐下谈谈呢`,note:null},{text:`空无一人的安全感竟比人群中更高`,note:`初中毕业那段时间写的`},{text:`将别人的碎片编织为快乐`,note:`初中毕业那段时间写的`},{text:`越是想要得到，却越是失去`,note:`初中毕业那段时间写的`},{text:`固有印象一定是对的吗`,note:null},{text:`在水上贬低着的冰山，在水下却及其壮观`,note:`初中毕业那段时间写的`},{text:`真相隐于水中`,note:`初中毕业那段时间写的`},{text:`没经历过的，为何嘲笑`,note:`初中毕业那段时间写的`},{text:`一次、两次……还要失去`,note:`初中毕业那段时间写的`},{text:`一样的事，不同人面前，结局却不一样`,note:`初中毕业那段时间写的`},{text:`渺小的声音，何时才能被听见`,note:`初中毕业那段时间写的`},{text:`有人努力给别人戴上有色眼镜，有人想办法应对别人有色眼镜`,note:null},{text:`一切都在改变……但过程……`,note:`初中毕业那段时间写的`},{text:`意图×做法>0 意图×结果<0`,note:`初中毕业那段时间写的`},{text:`骗过别人，却不能骗过自己`,note:`初中毕业那段时间写的`},{text:`有的人整活，赢得赞赏 有的人整活，受人唾弃
+`,`经常提前完成作业，让后面负担没那么重`,`现货陈自己想要的样子`,`游荡于互联网的奇怪猫娘`,`吟游诗人（？`,`腰是敏感部位，不要乱戳 (* ￣︿￣)`,`Tips: 这些都是在不同时期不同状态写的，可能有些不太准确的内容`,`有时候会思考一些哲学的东西，但其实并没有多少哲学造诣`,`继承了让头发又粗又硬的神秘基因，理发师剪了都说好`,`这是一只用爱充电的猫，可以用自己的热爱自己发电，也可以用高于100%的效率从别人那里充电`,`这是一个很任性的猫娘`,`自从掌握了用词典笔的歌词功能在学校看小说，原本不喜欢看书的他变得一发不可收拾了`,`自从手机(IQOO Neo9)被小b孩摔到地上，手感超棒的玻璃后盖直接碎了一个角，从此带上送的清水套，用到手机发热、套发黄，也不肯拿套……`,`总是让人失望，就会在无意中伤害别人……`],intros_wait:`(()=>{let t = Math.random() * 750;console.log(t);return t;})()`,hitokoto:.721,sentences:[{text:`泥潭之中，越是挣扎越是深，不挣扎也会慢慢陷入……`,note:`初中毕业那段时间写的`},{text:`不同的经历，也能分等级出来？`,note:`初中毕业那段时间写的`},{text:`不比别人好，追求却一样……`,note:`初中毕业那段时间写的`},{text:`眼睁睁地看着，沉默不语`,note:`初中毕业那段时间写的`},{text:`本是一样的人却有着隔膜`,note:`初中毕业那段时间写的`},{text:`不知说什么，不知该说什么，却想说什么`,note:`初中毕业那段时间写的`},{text:`同一场悲剧，大家的反应却不一样`,note:`初中毕业那段时间写的`},{text:`茫茫苍生，何晓苦楚`,note:`初中毕业那段时间写的`},{text:`黑暗的路并不平，却没人告诉他如何离开`,note:`初中毕业那段时间写的`},{text:`愁苦涌上心头，却无能为力`,note:`初中毕业那段时间写的`},{text:`指指点点，习惯就好，在意了，还是自己伤心`,note:`初中毕业那段时间写的`},{text:`对一边，包庇宽容开放，而另一边……`,note:`初中毕业那段时间写的`},{text:`踩他人的时候，想想是谁的错，或者他是不是习惯了`,note:`初中毕业那段时间写的`},{text:`有人被捧起，脚下还有别人`,note:`初中毕业那段时间写的`},{text:`单调的世界只能用内心填充`,note:null},{text:`能不能两个人安静地坐下谈谈呢`,note:null},{text:`空无一人的安全感竟比人群中更高`,note:`初中毕业那段时间写的`},{text:`将别人的碎片编织为快乐`,note:`初中毕业那段时间写的`},{text:`越是想要得到，却越是失去`,note:`初中毕业那段时间写的`},{text:`固有印象一定是对的吗`,note:null},{text:`在水上贬低着的冰山，在水下却及其壮观`,note:`初中毕业那段时间写的`},{text:`真相隐于水中`,note:`初中毕业那段时间写的`},{text:`没经历过的，为何嘲笑`,note:`初中毕业那段时间写的`},{text:`一次、两次……还要失去`,note:`初中毕业那段时间写的`},{text:`一样的事，不同人面前，结局却不一样`,note:`初中毕业那段时间写的`},{text:`渺小的声音，何时才能被听见`,note:`初中毕业那段时间写的`},{text:`有人努力给别人戴上有色眼镜，有人想办法应对别人有色眼镜`,note:null},{text:`一切都在改变……但过程……`,note:`初中毕业那段时间写的`},{text:`意图×做法>0 意图×结果<0`,note:`初中毕业那段时间写的`},{text:`骗过别人，却不能骗过自己`,note:`初中毕业那段时间写的`},{text:`有的人整活，赢得赞赏 有的人整活，受人唾弃
 有的人心里不平衡，羡慕别人，大家夸赞他 有的人心里不平衡，羡慕别人，大家歧视他
 有的人没有努力，却有不小的收获 有的人努力，却不能获得好的收获
 有的人在凳子上，自然会有人找他 有的人只能找凳子上的，先等他闲
@@ -496,7 +496,135 @@ Composing a rhapsody called falsity
 臣故曰非特不能成人之才，又从而困苦毁坏之，使不得成才也，又有甚害者
 `,note:`节选自《上皇帝万言书》`},{text:`一个分配好身边善恶安危的世界，和一个既能拉近更多善人，又能遇上更多恶人的世界`,note:null},{text:`破坏与毁灭能带来极大的快感，亦能带来最深的绝望`,note:null},{text:`欢愉不是凭空产生的，而是要看着由别人的痛苦转移而来
 绝望不是无缘而至的，而是他人获取快乐所付出的代价
-`,note:null}],sentence_wait:`(()=>{
+`,note:null},{text:`叶うならそばにいてくれないか
+若能实现 可否请你留在我身边
+ここから救い上げてくれないか
+可否求你将我从这里拯救上去
+灼き尽くされるほどに叫んでも
+呼喊得仿佛燃烧殆尽
+この手には何も残らない
+这双手却握不住分毫
+深く沈めた傷痕に
+沉没于深处的伤痕之中
+醜く飢える怪物がいる
+存在着丑陋饥饿的怪物
+息の詰まる柔い嘘に埋もれ
+沉溺于窒息温柔的谎言
+眠るように消えてしまえば
+若能如熟睡般就此消失
+きっと それでよかった
+那一定 是最好的结果吧
+だからそばにいてくれないか
+所以啊 可否请求你留在我身边
+ここから救い上げてくれないか
+可否求你将我从这里拯救上去
+喉が壊れるほどに叫んでも
+呼喊得喉咙都要撕裂
+はりついた悪夢に呑まれ
+却被如影随形的恶梦吞噬
+もうこの手には何も残らない
+这双手到底是握不住分毫
+何ひとつ残らない
+一切离我而去
+狂いながら ただ眠るだけ
+而我却只能 在失常中沉睡下去
+`,note:`摘抄自《ヘリオトロープ》歌词`},{text:`世人是不会原谅的
+不是世人，是你不会原谅吧？
+要是这么做，世人会让你吃尽苦头的
+不是世人，是你吧？
+你很快就会被世人遗忘的
+不是世人遗忘我，是被你遗忘才对吧？
+……
+这就是我
+世人原谅我，还是不原谅我；
+世人遗忘我，还是不遗忘我都无所谓
+我是连狗猫都不如的动物，是癞蛤蟆，只会慢慢爬行
+`,note:`摘抄自《人间失格》`},{text:`不幸，这个世界上有许许多多的不幸之人，不，即便说所有人都是不幸之人，也不为过
+可是，他们的不幸可以名正言顺地向世人发出抗议，而且“世人”也很容易接受和同情他们的抗议
+但我的不幸全部源于自身的罪恶，无法向任何人抗议，如若我吞吞吐吐说出一句类似于抗议的话，不仅只是比目鱼，肯定所有的世人都会对我的话惊讶得无言以对
+我真的是俗话里所说的为所欲为的任性，还是完全相反的过于唯唯诺诺了呢？
+这一点我自己也搞不明白
+总之，我是罪恶的综合体，只会变得越来越不幸，没有加以防范的具体对策
+我站起身，想着先去买些什么药，便走进了附近的一家药店，在店里与老板娘打照面的瞬间，老板娘像是被闪光灯照到了面孔，抬头睁大了双眼，一动不动地呆立在原地。
+但她睁大的双眼里，感觉不到惊愕和厌恶之色，而是流露出既像求救，又像爱慕的神情
+啊，这个人也肯定是不幸之人，不幸之人总是敏感于别人的不幸
+正当我这样想时，我发现那位老板娘手拄着拐杖，颤悠悠地站着
+我克制住想冲过去的冲动，继续与她面面相望时，泪水禁不住夺眶而出
+而此时，泪水也从她的眼睛里簌簌落下
+`,note:`摘抄自《人间失格》`},{text:`我现在已不再是罪人，而是疯子。
+不，我绝对没疯，一刻也没疯过。
+据说，大部分的疯子都会这么说自己。
+换言之，被关进这所医院的人是疯子，没被关进来的则是正常人。
+我质问神灵：不抵抗也是一种罪过吗？
+`,note:`摘抄自《人间失格》`},{text:`停止徒劳的祈祷
+扔掉让人落泪的一切吧
+来，干杯！
+只追忆美好
+别去想那些多余的烦恼
+用不安和恐怖威胁人的家伙
+惧怕自己的罪孽
+为防范死者的复仇
+不停在脑中算计
+昨夜，心因酒足充满欢喜
+清晨，相陪的只有悲凉
+是何等的奇怪，一夜间
+心情迥然相异
+请停止作祟的念头！
+像响自远方的鼓声
+那家伙莫名恐慌
+如果放屁都被定罪，怎能挽救？
+正义可是人类的指针？
+那么，在血染的战场
+那暗杀者的刀尖上
+又存在何种正义？
+哪里存在着真理？
+又存在着什么样的睿智之光？
+美丽与恐惧并存于尘世
+难以承受的重负被迫落在懦弱者的孩子肩上
+我们都是被无奈播下的情欲之种
+无法摆脱善与恶、罪与罚的宿命
+我们只是无奈地彷徨与惊慌
+因为神没赐给我们粉碎它们的力量和意志
+你在哪里徘徊游荡？
+在批判、探讨、重新认识着什么？
+哦，是空虚的梦，是不复存在的幻想
+嘿，忘了喝酒，一切都是虚妄
+仰望无边无际的天空吧
+我们不过是飘浮的一个小点
+谁能知道这地球的自转？
+自转、公转、反转是它的自由
+随处感受到至高无上的力量
+所有的国家，所有的民族
+都不乏相同的人性
+难道只有我是异类？
+世人都误读了圣训
+否则也不会有常识和智慧
+严禁肉体之乐，也禁止酒沾口唇
+算了，穆斯塔法，最让我忌恨
+`,note:`摘抄自《人间失格》`},{text:`人类费尽心思为满足自己的贪欲而努力，不断壮大自己的胃口`,note:null},{text:`当想要卸下层层面具探查真实样貌时，却发现面具之下的真实已然消散`,note:null},{text:`爱惜千人，误伤一人，换万人冷眼
+践踏千人，讨好一人，得万人爱慕
+`,note:null},{text:`遭人唾弃的圣母，与人见人爱的流氓`,note:null},{text:`"恶人"的照片被挂在国家的高墙上，轮播着他的种种"事迹"，以警告民众与游客不能靠近他
+而"恶人"只知道在被权贵认定为异己后，处处受限
+"罪行"一天比一天多，自己不知道的"事迹"越来越超乎自己想象……
+"那人看了我一眼啊，是不是要对我有什么不好的想法？""那个人碰了一下我，完蛋了""那个人想和我说话，好恶心，还好我跑开了"……
+人们只相信自己想相信的
+……
+他端着手里的刀，想着身边的一切
+"他们都说我是个杀人犯，那我应该就是吧"
+他知道自己什么也没做，也没真正产生过这些想法
+直到这时，不再是了……
+`,note:null},{text:`见广者，被世人嘲笑；先见者，被视为疯子`,note:null},{text:`杀死天才以除去叛逆的"常人"
+折磨常人以塑造指定的"天才"
+`,note:null},{text:`一个是我，一个也是我，互为挚友又互为仇人，但都在保护着自己的那个"他"`,note:null},{text:`每个人都被明码标价，每个人都在抬升自己的价格
+物价上涨，通货膨胀……
+`,note:null},{text:`可我什么也没做
+不过我什么也没做
+就因为我什么也没做
+`,note:null},{text:`暴者踏于一个又一个善者之上，将自己托举至高处，引来人群目光
+众人面前，高高在上的暴者们如神般引人钦慕
+脚下善者，无声哀号着上天的不公——
+为什么能讨人喜爱的不是为他人善想的善者们，而是靠伤害他人而引起目光的暴者？
+`,note:null},{text:`拆卸掉出厂时一个个属于自己的独特的出厂部件，改装为他人所期望的、所需要的、所喜欢的"更好"的通用零件`,note:null}],sentence_wait:`(()=>{
   let t = Math.random() * 3000;
   if(t> (3000 - 0.1330333 - 1.14514 - 1.919810 - 0.721)){
     setTimeout(()=>{
