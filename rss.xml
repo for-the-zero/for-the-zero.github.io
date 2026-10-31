@@ -7,6 +7,34 @@
   <copyright>CC 4.0 BY</copyright>
   <atom:link href="https://ftz.is-a.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title><![CDATA[Toashot：或许是一个更加方便好用的截图工具]]></title>
+    <link>https://ftz.is-a.dev/blog/posts/toashot/</link>
+    <guid isPermaLink="false">toashot</guid>
+    <description><![CDATA[或许是一个更加方便好用的截图工具
+
+学完了C#便想要练练手，于是写了一个截图工具
+
+我想着现有的截图工具，基本上就两种：
+
+1. 按下快捷键进入截图UI
+2. 静默执行任务
+
+而在现实使用的时候：
+
+- 有时候我需要的只是在剪贴板快速粘贴使用使用
+- 有时候我截完图要修改修改然后一会去使用
+- 有时候我要快速连续截图，事后找到我想要的其中某张截图
+- ……
+
+那就自己做个符合自己要求的吧，顺便练练手
+
+于是拿起了C#+Avalonia干了一个出来，并且放到了Github上，可以到Releases下载
+
+这次基本上大部分都是自己写的~~，其实基本上全程都在...]]></description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0800</pubDate>
+    <dc:creator>for_the_zero</dc:creator>
+  </item>
+  <item>
     <title><![CDATA[浅学一下C#，顺便做了几个小工具]]></title>
     <link>https://ftz.is-a.dev/blog/posts/learncs/</link>
     <guid isPermaLink="false">learncs</guid>
